@@ -1,0 +1,22 @@
+{
+  "id": "11787217",
+  "type": "article",
+  "workspace_id": "o3ohuxro",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    10509499
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": []
+  },
+  "title": "Account setup",
+  "description": "Everything you need to get going",
+  "body": "<p class=\"no-margin\"></p>\n<h1 id=\"h_bd21f89353\">Add your EIN and Mission</h1><p class=\"no-margin\"></p>\n<p class=\"no-margin\">Head over to your My organization settings and add your EIN. After that, write a mission statement including your programs, audience served, political orientation (if applicable), size, and geographic scope. The tone should be factual and neutral. Keep the entire text under 1000 characters.</p><p class=\"no-margin\"></p>\n<p class=\"no-margin\">Mission Statement Guidelines: Your mission statement directly powers the Donations Affinity Score and All Profiles\" blankElevated Profiles\" blankprofile Affinity Score through AI analysis. To ensure accurate scoring:</p><p class=\"no-margin\"></p>\n<ul><li><p class=\"no-margin\">Maintain any geographic emphasis that Hatch generates - location details help AI match prospects with regional giving patterns</p></li><li><p class=\"no-margin\">Preserve budget or organizational size information - this helps calibrate wealth and giving capacity assessments</p></li><li><p class=\"no-margin\">Include specific program areas and beneficiary populations - this enables accurate mission alignment scoring</p></li><li><p class=\"no-margin\">Avoid removing structural elements - edit for accuracy rather than completely rewriting sections</p></li></ul><p class=\"no-margin\"></p>\n<p class=\"no-margin\">The mission statement serves as the comparison baseline when AI evaluates how well a prospect's giving history and personal interests align with your organization's work.</p><p class=\"no-margin\"></p>\n<h1 id=\"h_fe586f669d\">Turn on 2FA</h1><p class=\"no-margin\"></p>\n<p class=\"no-margin\">For best security practices, activate 2FA.</p><p class=\"no-margin\"></p>\n<h1 id=\"h_ca119c39bd\">Adding users</h1><p class=\"no-margin\"></p>\n<p class=\"no-margin\">Visit My organization settings and search for \"Add Organization Member\". Editors cannot edit Organization details and Admins can.</p><p class=\"no-margin\"></p>",
+  "author_id": 6409529,
+  "state": "published",
+  "created_at": 1752693973,
+  "updated_at": 1755727153,
+  "url": "https://intercom.help/hatch-giving-intelligence/en/articles/11787217-account-setup"
+}

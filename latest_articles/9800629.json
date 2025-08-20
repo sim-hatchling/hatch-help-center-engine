@@ -1,0 +1,22 @@
+{
+  "id": "9800629",
+  "type": "article",
+  "workspace_id": "o3ohuxro",
+  "parent_id": 14000434,
+  "parent_type": "collection",
+  "parent_ids": [
+    14000434
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": []
+  },
+  "title": "Filters",
+  "description": "From Public Donations to Location to Social Influence",
+  "body": "<p class=\"no-margin\"></p>",
+  "author_id": 6409529,
+  "state": "published",
+  "created_at": 1724941781,
+  "updated_at": 1755727163,
+  "url": "https://intercom.help/hatch-giving-intelligence/en/articles/9800629-filters"
+}

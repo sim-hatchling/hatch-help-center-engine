@@ -1,0 +1,22 @@
+{
+  "id": "9927342",
+  "type": "article",
+  "workspace_id": "o3ohuxro",
+  "parent_id": 14000434,
+  "parent_type": "collection",
+  "parent_ids": [
+    14000434
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": []
+  },
+  "title": "Navigating your Admin panel",
+  "description": "All things account management",
+  "body": "<p class=\"no-margin\"></p>\n<h1 id=\"h_4c342b31e7\">Billing</h1><p class=\"no-margin\"></p>\n<h2 id=\"h_c08cb476c5\">View Subscription Details</h2><p class=\"no-margin\"></p>\n<p class=\"no-margin\">Your billing dashboard displays:</p><p class=\"no-margin\"></p>\n<ul><li><p class=\"no-margin\">Current subscription plan (Free, Starter, Essential, Standard, etc.)</p></li><li><p class=\"no-margin\">Monthly cost and renewal date</p></li><li><p class=\"no-margin\">Usage quotas - enrichment profiles, QuickSearch imports, Elevated profiles</p></li><li><p class=\"no-margin\">Payment method on file</p></li><li><p class=\"no-margin\">Billing contact information</p></li></ul><p class=\"no-margin\"></p>\n<h2 id=\"h_946eadeff9\">Accessing Your Receipts</h2><p class=\"no-margin\"></p>\n<p class=\"no-margin\">To download subscription receipts:</p><p class=\"no-margin\"></p>\n<ol><li><p class=\"no-margin\">Click your initials in the top right corner</p></li><li><p class=\"no-margin\">Select \"Billing\" from the dropdown</p></li><li><p class=\"no-margin\">Scroll down to the \"Invoice History\" section</p></li><li><p class=\"no-margin\">Find your payment in the list (shows date, amount, status, plan type)</p></li><li><p class=\"no-margin\">Click to download your receipt directly</p></li></ol><p class=\"no-margin\"></p>\n<p class=\"no-margin\">All past payments appear in your invoice history with \"Paid\" status indicators. Receipts are available immediately after each successful payment.</p><p class=\"no-margin\"></p>\n<h2 id=\"h_c39d39c68f\">Managing Payment Information</h2><p class=\"no-margin\"></p>",
+  "author_id": 6409529,
+  "state": "published",
+  "created_at": 1727385676,
+  "updated_at": 1755727162,
+  "url": "https://intercom.help/hatch-giving-intelligence/en/articles/9927342-navigating-your-admin-panel"
+}

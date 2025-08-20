@@ -1,0 +1,22 @@
+{
+  "id": "12015348",
+  "type": "article",
+  "workspace_id": "o3ohuxro",
+  "parent_id": null,
+  "parent_type": null,
+  "parent_ids": [
+    10509499
+  ],
+  "tags": {
+    "type": "tag.list",
+    "tags": []
+  },
+  "title": "Donation History Import Guide",
+  "description": "Setup and Impact on Platform Features",
+  "body": "<p class=\"no-margin\"></p>\n<h1 id=\"h_59994775ec\">Why This Matters</h1><p class=\"no-margin\"></p>\n<ul><li><p class=\"no-margin\">3x Higher Adoption: Organizations with properly structured donation data see significantly better gift officer engagement</p></li><li><p class=\"no-margin\">Better Scoring: Complete donation history leads to more accurate prospect identification</p></li><li><p class=\"no-margin\">Avoid Limitations: Poor data structure can restrict portfolio management capabilities</p></li></ul><p class=\"no-margin\"></p>\n<h1 id=\"h_fad8f24fd3\">Before You Start</h1><p class=\"no-margin\"></p>\n<p class=\"no-margin\">Prerequisites:</p><p class=\"no-margin\"></p>\n<ul><li><p class=\"no-margin\">\u2713 Prospect data uploaded</p></li><li><p class=\"no-margin\">\u2713 Understanding Your AI Scoring &amp; Insights\" blankenrichment Results\" blankAI Scoring &amp; Insightsenrichment process completed</p></li><li><p class=\"no-margin\">\u2713 Notified via Intercom when Understanding Your AI Scoring &amp; Insights\" blankenrichment Results\" blankAI Scoring &amp; Insightsenrichment is done</p></li></ul><p class=\"no-margin\"></p>\n<p class=\"no-margin\">Bulk Upload Best Practicesupload Page</p><p class=\"no-margin\"></p>\n<h1 id=\"h_b9da1d3710\">Essential Data Fields</h1><p class=\"no-margin\"></p>\n<h2 id=\"h_7573763086\">Optional Fields</h2><p class=\"no-margin\"></p>\n<h1 id=\"h_bc33571b3b\">Data Preparation</h1><p class=\"no-margin\"></p>\n<h2 id=\"h_cbe1c8f2d0\">Solicitor Names</h2><p class=\"no-margin\"></p>\n<ul><li><p class=\"no-margin\">Use full, consistent names (\"John Smith\", not \"J. Smith\")</p></li><li><p class=\"no-margin\">Check for typos and variations</p></li><li><p class=\"no-margin\">Consider using email addresses for unique identification</p></li></ul><p class=\"no-margin\"></p>\n<h2 id=\"h_fd5e1294fc\">Amount Formatting</h2><p class=\"no-margin\"></p>\n<h2 id=\"h_2bc0812b78\">Date Formatting</h2><p class=\"no-margin\"></p>\n<h1 id=\"h_55c2207179\">Bulk Upload Best Practicesupload Process</h1><p class=\"no-margin\"></p>\n<ol><li><p class=\"no-margin\">Navigate to Bulk Upload Best Practicesupload page</p></li><li><p class=\"no-margin\">Select \"Donations import\" (separate from bulk Understanding Your AI Scoring &amp; Insights\" blankenrichment Results\" blankAI Scoring &amp; Insightsenrichment)</p></li><li><p class=\"no-margin\">Bulk Upload Best Practicesupload your file</p></li><li><p class=\"no-margin\">Verify field mapping</p></li><li><p class=\"no-margin\">Confirm and process</p></li></ol><p class=\"no-margin\"></p>\n<p class=\"no-margin\">Bulk Upload Best Practicesupload Process</p><p class=\"no-margin\"></p>\n<h1 id=\"h_455271298c\">Special Cases</h1><p class=\"no-margin\"></p>\n<h2 id=\"h_0cad914789\">Foundation Gifts</h2><p class=\"no-margin\"></p>\n<p class=\"no-margin\">Structure foundation gifts as follows:</p><p class=\"no-margin\"></p>\n<h2 id=\"h_fe56aaf132\">Duplicate Handling</h2><p class=\"no-margin\"></p>\n<h1 id=\"h_fd78e8d612\">Verification Steps</h1><p class=\"no-margin\"></p>\n<ol><li><p class=\"no-margin\">Check sample donor profiles</p></li><li><p class=\"no-margin\">Verify portfolio filters</p></li><li><p class=\"no-margin\">Confirm recent major gifts</p></li><li><p class=\"no-margin\">Test gift officer access</p></li></ol><p class=\"no-margin\"></p>\n<h1 id=\"h_f018336567\">Troubleshooting</h1><p class=\"no-margin\"></p>\n<h2 id=\"h_f0927b2fda\">Common Issues</h2><p class=\"no-margin\"></p>\n<h1 id=\"h_0f81ffa1e7\">Best Practices</h1><p class=\"no-margin\"></p>\n<ul><li><p class=\"no-margin\">Bulk Upload Best Practicesupload complete historical data - no practical time limits</p></li><li><p class=\"no-margin\">Use territory codes in solicitor names for better organization</p></li><li><p class=\"no-margin\">Consider backup solicitor assignments</p></li><li><p class=\"no-margin\">Track special handling in Donation Notes</p></li></ul><p class=\"no-margin\"></p>",
+  "author_id": 6409529,
+  "state": "published",
+  "created_at": 1755209902,
+  "updated_at": 1755727145,
+  "url": "https://intercom.help/hatch-giving-intelligence/en/articles/12015348-donation-history-import-guide"
+}
