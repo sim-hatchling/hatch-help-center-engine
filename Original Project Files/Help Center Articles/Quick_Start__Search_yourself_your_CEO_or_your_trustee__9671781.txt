@@ -1,0 +1,64 @@
+Title: Search yourself, your CEO, or your trustee
+ID: 9671781
+State: published
+Collection: Quick Start
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9671781-search-yourself-your-ceo-or-your-trustee
+Created: 1722287202
+Updated: 1754691693
+
+To begin your QuickSearch, enter any one of these 4 datapoints:
+
+  1. First & last name
+
+  2. Phone number
+
+  3. Email address
+
+  4. LinkedIn username
+
+
+
+
+* * *
+
+## First & last name
+
+You'll may get no results, and you may get 100. Let's go over each scenario.
+
+  1. No results — try entering a variation of their first name, like Ben instead of Benjamin or try entering another last name they go by
+
+  2. One result — the result will have a score of 50 by default, since there is only one match. This _may_ be the person you are looking for. To be sure, enter more information—such as email, phone, address, or a keyword—to increase the Match score.
+
+  3. Many results — all results start with a Match score of 41%. Enter additional information to increase the Match score.
+
+
+
+
+* * *
+
+## Phone
+
+A matching phone number returns a score of 41% by default, regardless of how many profiles are returned. We'll need more information to narrow down the result, since it can be any person who has historically had this phone number. You can select Match Prospect regardless of the score.
+
+* * *
+
+## Email
+
+Even without a name, a match on email gives a Match score of 51% since emails _tend to be unique_. Enter additional information to watch the score rise. You can select Match Prospect regardless of the score.
+
+* * *
+
+## LinkedIn username
+
+Even more so than emails, LinkedIn usernames tend to be unique, resulting in a 61% Match score even where no name is entered. Add additional information when you can. QuickSearch by LinkedIn is especially useful when you have no way of identifying a person by anything other than their LinkedIn profile.
+
+* * *
+
+## Keywords
+
+ _Keywords_ is a dynamic search field that looks across the Prospect Match. So when you only remember a person's company, job title, or interest—search with this _Keyword_ will help improve the Match score.
+
+⚠️ When you select "Match Prospect" in QuickSearch, the system assumes you've chosen the correct person and will show high confidence (green bars) regardless of the underlying match strength. Always double-check that key details like email addresses, LinkedIn profiles, and locations actually belong to the person you're researching before importing. If you discover inaccuracies after importing, consider requesting an Elevated Profile for manual verification.
+
+  
+​

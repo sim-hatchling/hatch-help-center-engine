@@ -1,0 +1,111 @@
+Title: Bulk Enrichment FAQ
+ID: 9673709
+State: published
+Collection: Common Challenges
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9673709-bulk-enrichment-faq
+Created: 1722318960
+Updated: 1754941640
+
+## 1\. What file formats are accepted for bulk uploads?
+
+We accept CSV and Excel files for bulk uploads. Please ensure your file follows the specified formatting requirements.
+
+## 2\. What fields are required in the upload file?
+
+The required fields include first name, last name, and at least one of the following: email, phone number, or home address. Additional optional fields can enhance the enrichment process. For a detailed list of critical, required, and optional fields, please refer to our [Prospects Upload Guide](https://hatch.ai/upload-guide/prospects-upload.html).
+
+## 3\. How long does the enrichment process take?
+
+The enrichment process duration varies depending on the size of the upload and the current queue status. Typically:
+
+  * 10 records can take a few seconds when the queue is empty.
+
+  * 1,000 records can take around 15 minutes with a clear queue. We are working on providing estimated enrichment times soon. Currently, there is no specified maximum file size.
+
+
+
+
+## 4\. How is my data protected during the upload and enrichment process?
+
+We adhere to industry-standard data safety measures and are working towards official GDPR and CCPA compliance. Your data is never shared with other users and is protected throughout the process.
+
+## 5\. What enrichment data points can I expect to receive?
+
+Our enrichment process provides a wide array of data points, including:
+
+  * Social media accounts and activity
+
+  * Contact information (phone numbers, emails, addresses)
+
+  * Job history
+
+  * Asset information (homes owned, SEC published stock holdings)
+
+  * Historically published news articles
+
+  * Public donations (to other nonprofits, foundation board memberships, political contributions)
+
+  * Skills and interests
+
+
+
+
+## 6\. How are the enrichment results delivered?
+
+Users can download a complete human profile for each enriched record or export a bulk list of profiles with specified key data points. You can also integrate the data directly with your CRM using Hatch’s API or the Blackbaud RE NXT CRM integration for seamless use.
+
+**Note: If you're experiencing issues with your Blackbaud RE NXT integration, try disconnecting and reconnecting the integration from your Hatch developer page before switching to manual uploads.**
+
+## 7\. What happens if there are errors in the uploaded file?
+
+If there are errors in your uploaded file, such as missing required fields or incorrect formatting, you will be notified during the upload process. Our support team is available to assist you with any issues from 9 AM to 5 PM EST.
+
+## 8\. What are the costs associated with the bulk enrichment service?
+
+The costs are based on the number of profiles you wish to enrich and the plan you choose. Here are some examples of our plans:
+
+  * **Free Plan:** 50 enrichment profiles per month
+
+  * **Starter Plan ($50/month):** 350 enrichment profiles
+
+  * **Essential Plan ($100/month):** 2,500 enrichment profiles
+
+  * **Standard Plan ($200/month):** 5,000 enrichment profiles
+
+  * **Ample Plan ($300/month):** 10,000 enrichment profiles
+
+  * **Generous Plan ($400/month):** 20,000 enrichment profiles
+
+  * **Maximal Plan ($500/month):** 30,000 enrichment profiles For more details on pricing, please visit our [Plans Page](https://hatch.ai/plans).
+
+
+
+
+## 9\. Are there any tips for preparing my data for upload?
+
+To ensure the best results, provide as many data fields as possible. Accurate and complete data helps improve the quality and quantity of the enrichment insights. Additionally, following our [formatting guidelines](https://hatch.ai/upload-guide/prospects-upload.html) will minimize errors during the upload process.
+
+## **10\. How can I identify CRM records that are missing data where Hatch captured it?**
+
+You can easily identify CRM records that are missing phone numbers, emails, or other data points where Hatch has captured this information by doing a side-by-side comparison using Hatch's export functionality.
+
+Step-by-step process:
+
+  1. **Export your Hatch data:** Navigate to the List you want to export (this can be a list of all your Hatch records). Any user can perform this export - both admins and editors have access to this function.
+
+  2. **Select relevant fields:** When exporting, include the specific fields you want to compare - whether they are emails, phone numbers, or other data points that Hatch may have enriched.
+
+  3. **Export the file:** The list will be emailed directly to you as a CSV file, usually within a few seconds for smaller lists.
+
+  4. **Compare with your CRM:** Take your exported Hatch data and do a side-by-side comparison with your list of IDs from RE NXT (or any other CRM system). This will help you identify where Hatch has captured contact information that may be missing in your original CRM records.
+
+
+
+
+This process works with any CRM system and allows you to systematically identify enrichment opportunities and data gaps.
+
+For custom queries: If you need a special query or data comparison that goes beyond the standard export functionality, you can make a request through Intercom chat support, and our team will assist you with more complex data analysis needs.
+
+* * *
+
+If you have any further questions or need assistance, please contact our support team during business hours. We are here to help you make the most of our enrichment services.

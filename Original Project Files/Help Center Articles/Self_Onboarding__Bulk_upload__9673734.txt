@@ -1,0 +1,101 @@
+Title: Bulk upload
+ID: 9673734
+State: published
+Collection: Self Onboarding
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9673734-bulk-upload
+Created: 1722319931
+Updated: 1754940550
+
+RE NXT users, head straight to [CRM Integrations](https://intercom.help/hatch-giving-intelligence/en/articles/9689659-crm-integrations). 
+
+Note: If you're experiencing issues with your Blackbaud RE NXT integration, try disconnecting and reconnecting the integration from your Hatch developer page before switching to manual uploads.
+
+## 5 easy steps to complete the Bulk Upload Process
+
+  1. #### Upload your data file
+
+  2. #### Map your columns
+
+  3. #### Review your Data
+
+  4. #### Await approval email
+
+  5. #### Await enrichment completion email
+
+
+
+
+* * *
+
+# Upload Your Data File
+
+  1. From your dashboard homepage, select the "Upload" button on the left-side panel
+
+![](https://downloads.intercomcdn.com/i/o/1128760596/4056b7ea22d4ee3e216a1a9d/Screenshot+2024-07-30+at+2_18_36%E2%80%AFAM.png?expires=1755209700&signature=719b8597f9552cf714da5405609ab7889ab366171a00a15628a4586656275b44&req=dSElHs54nYRWX%2FMW1HO4zfC6fCp%2Bw3x5IbmUk1eT06vI0xhqlDyjCQxmqyNn%0A9%2FCo%0A)
+
+  2. Once on the Data enrichment process page, in the **Bulk enrichment** box, select "Start enrichment process."
+
+![](https://downloads.intercomcdn.com/i/o/1128761470/b85b8a5ec4c76d302f9a4d78/Screenshot+2024-07-30+at+2_20_04%E2%80%AFAM.png?expires=1755209700&signature=c05359b62dc6ac6aa4ebc63e61df24e433b5a4a4064530d11f5916003eec48b2&req=dSElHs54nIVYWfMW1HO4zR52kxuBU3b18VSNYGG2O64mUEjAjPBg9VluNYH3%0AM%2FbR%0A)
+
+  3. Prepare and upload your file, then go to the "Next step."![](https://downloads.intercomcdn.com/i/o/1128765171/7c8a437ec85e5fe44a5640d8/imgonline-com-ua-twotoone-vkxKa3xPCAKE7Kb.jpg?expires=1755054000&signature=978591ad3fff9f8ed53ffcecb9c873e774017885c483f417f9a222c9a1da23be&req=dSElHs54mIBYWPMW3Hu4gUvwea3O5x8zTTFy97QxN%2BrjC7XV%2BDxkGnSMr0n0%0Aqg%3D%3D%0A)
+
+
+
+
+* * *
+
+# Map Your Columns
+
+  1. Help Hatch understand your data by identifying the data point for each column that you're importing. Use the examples underneath the "Uploaded columns (your data)" column names to ensure the columns are properly mapped to Hatch fields.
+
+![](https://downloads.intercomcdn.com/i/o/1128823248/868db283fc64276988e8ac4e/Screenshot+2024-07-30+at+3_44_59%E2%80%AFAM.png?expires=1755209700&signature=7ea273d39d450012c88989f5589fcf2feb95b919f536774c80c32c295cad7623&req=dSElHsF8noNbUfMW1HO4zdRjIlFQ9CtLrIVxL1YlglClGSfaEr7AqG5vIh7f%0A72KE%0A)
+
+  2. Review the automated Hatch field mapping to ensure the fields are correctly mapped.
+
+![](https://downloads.intercomcdn.com/i/o/1128824004/dd2efb5615c2a8b73b51d8c8/Screenshot+2024-07-30+at+3_45_58%E2%80%AFAM.png?expires=1755209700&signature=bbc7e372999f339ea3ae58d36728c1f57212a2b178947eeae77b278a76c4b87c&req=dSElHsF8mYFfXfMW1HO4zTCR2qLTBenIZ0aAV5%2BZukTogqxu8pwBrQy0rG29%0AE%2Fwc%0A)
+
+  3. The "Field importance" is the importance of the Hatch field you mapped to, and the "Fill percentage" is that of the Uploaded column from your data.
+
+![](https://downloads.intercomcdn.com/i/o/1128825847/a0a3fa621b83be3b008ebeea/Screenshot+2024-07-30+at+3_48_14%E2%80%AFAM.png?expires=1755209700&signature=3fb66885ce5d5757f26e17088578a5c503162e51d3200e69e0fe2c6c0be11da5&req=dSElHsF8mIlbXvMW1HO4zRJMm3ZURj9mL9I0aqc7r7dWZdf23hbpBX6pLITf%0AvOkz%0A)
+
+  4. Finally, "Continue to review your data." You'll have the opportunity to return to the Map Your Columns step.
+
+![](https://downloads.intercomcdn.com/i/o/1128770942/edb4efddea09aa0537df837e/Screenshot+2024-07-30+at+2_34_57%E2%80%AFAM.png?expires=1755209700&signature=1a8ff68efa8d6f4e3fc11140c1ee1426e8012d720194014a0cc1858cea4f5641&req=dSElHs55nYhbW%2FMW1HO4zU1jz1L8evMgMzau9khr8chIp4xxeQ7wAT6%2FscmA%0ASHq6%0A)
+
+
+
+
+* * *
+
+# Review Your Data
+
+  1. Review your data to ensure it looks as you expect it to.
+
+![](https://downloads.intercomcdn.com/i/o/1128810741/26db1dcec554a4f3b404f81a/Screenshot+2024-07-30+at+3_30_13%E2%80%AFAM.png?expires=1755209700&signature=adf498823b308e7e35a2a9c042be422cea95bf51df41d9fb781c859a2fab3fe2&req=dSElHsF%2FnYZbWPMW1HO4zTLQeWf3FpuNegT43pB72TMjx5aYfz6w3TMNgRVU%0AXsU%2F%0A)
+
+  2. See the breakdown of enrichment categories based on the inputs you provided and the columns you mapped to. Select an option to Filter by status. 
+
+![](https://downloads.intercomcdn.com/i/o/1128817368/30c3638070679d44c1c9d79c/Screenshot+2024-07-30+at+3_38_07%E2%80%AFAM.png?expires=1755209700&signature=2d1f4dba1dd99ccb474be5aeb431a1e004b3e569944d70efe0f7fe839ed38a5a&req=dSElHsF%2FmoJZUfMW1HO4ze9iKEFKKMYu0kKEXPfkuLXMaT6%2Bi4ukT8Y1RXs9%0Aj6PF%0A)
+
+  3. Select "Status info" in the above image to see an explanation of each status.
+
+  4. Toggle on Filter by User ID to get a look of those records that have or are missing a User ID.
+
+  5. Select "Import" and you're done!
+
+![](https://downloads.intercomcdn.com/i/o/1128817988/7841efd0edef9e127923d37f/Screenshot+2024-07-30+at+3_38_42%E2%80%AFAM.png?expires=1755209700&signature=0ccd99373a6ba7a006d26131665adbc88691cde6ab955a8924f97e5d5e7536e9&req=dSElHsF%2FmohXUfMW1HO4zXr6yn%2BimAJUZ58t%2Fs93HD3qhVBH2FId9c32EdiT%0A1Yi2%0A)
+
+
+
+
+* * *
+
+# Await Approval Email
+
+Bulk uploads are typically approved within 12 hours. If a bulk upload is submitted toward the end of the day, it may only be approved in the morning. In contrast, uploads submitted in the morning or early afternoon may be approved quickly. Once an upload is approved, you will receive an email letting you know the upload has been queued for enrichment. Currently, all bulk enrichments can be expected to complete 24 hours from receipt of the approval notice. The extended processing time is due to the bulk enrichment queue. Soon there will be a precise time of enrichment completion, so you can know when to check back for your results.
+
+* * *
+
+# Await Enrichment Completion Email
+
+You'll receive an email notification once enrichment is complete. And voila, you've just learned how to complete your first bulk upload! Get started now at dashboard.hatch.ai/upload.

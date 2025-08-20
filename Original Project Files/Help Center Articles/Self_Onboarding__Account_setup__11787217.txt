@@ -1,0 +1,46 @@
+Title: Account setup
+ID: 11787217
+State: published
+Collection: Self Onboarding
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/11787217-account-setup
+Created: 1752693973
+Updated: 1755207092
+
+## Start with the Quick Start Collection
+
+Start with this collection to learn the basics of QuickSearch, OpenGiving, and Navigating the Complete Human Profile.
+
+* * *
+
+## Add your EIN and Mission
+
+Head over to your My organization settings and add your EIN. After that, write a mission statement including your programs, audience served, political orientation (if applicable), size, and geographic scope. The tone should be factual and neutral. Keep the entire text under 1000 characters.
+
+**Mission Statement Guidelines:** Your mission statement directly powers the Donations Affinity Score and Profile Affinity Score through AI analysis. To ensure accurate scoring:
+
+  * Maintain any geographic emphasis that Hatch generates - location details help AI match prospects with regional giving patterns
+
+  * Preserve budget or organizational size information - this helps calibrate wealth and giving capacity assessments
+
+  * Include specific program areas and beneficiary populations - this enables accurate mission alignment scoring
+
+  * Avoid removing structural elements - edit for accuracy rather than completely rewriting sections
+
+
+
+
+The mission statement serves as the comparison baseline when AI evaluates how well a prospect's giving history and personal interests align with your organization's work.
+
+💡 Your EIN and Mission are utilized in AI Scoring & Insights
+
+* * *
+
+## Turn on 2FA
+
+For best security practices, [activate 2FA](https://dashboard.hatch.ai/user/profile).
+
+* * *
+
+## Adding users
+
+Visit My organization settings and search for "Add Organization Member". Editors cannot edit Organization details and Admins can.

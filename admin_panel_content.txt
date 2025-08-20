@@ -1,0 +1,29 @@
+# Navigating your Admin panel
+
+All things account management
+
+## Billing
+
+### View Subscription Details
+
+Your billing dashboard displays:
+
+- Current subscription plan (Free, Starter, Essential, Standard, etc.)
+- Monthly cost and renewal date
+- Usage quotas - enrichment profiles, QuickSearch imports, Elevated profiles
+- Payment method on file
+- Billing contact information
+
+### Accessing Your Receipts
+
+To download subscription receipts:
+
+1. Click your initials in the top right corner
+2. Select "Billing" from the dropdown
+3. Scroll down to the "Invoice History" section
+4. Find your payment in the list (shows date, amount, status, plan type)
+5. Click to download your receipt directly
+
+All past payments appear in your invoice history with "Paid" status indicators. Receipts are available immediately after each successful payment.
+
+### Managing Payment Information

@@ -1,0 +1,54 @@
+Title: Email Alerts
+ID: 9689671
+State: published
+Collection: Secondary Features
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9689671-email-alerts
+Created: 1722556026
+Updated: 1755206833
+
+## Birthdays
+
+Ready to reach out to your donors in real-time wishing them a happy birthday? What better way to connect than by celebrating them.
+
+* * *
+
+## News
+
+You'll receive news alerts on every profile that has had a news articles manually confirmed by the Hatch Data Team.
+
+* * *
+
+## Requested Elevated Profiles
+
+Every time you request a profile to be Elevated, every team member will be emailed a notification when the profile has completed Elevation.
+
+* * *
+
+## 5Alive [coming soon; expected release: August 2025]
+
+Mondays at 9am EST, all users on your team receive an email recommending 5 profiles to request as Elevated Profiles.
+
+* * *
+
+## **Managing Notifications for Gift Officers**
+
+When adding gift officers as users to provide self-service access, they may not want to receive all Hatch email notifications (birthdays, news alerts, elevated profiles).
+
+Currently, there is no built-in toggle to customize notifications by user. 
+
+The recommended solution is to set up email filters:
+
+  * **For Outlook users:** Create a rule to automatically move emails from support@hatch.ai to a specific folder. You can also include any email containing "Hatch" in the subject line.
+
+  * **For Gmail users:** Create a filter that automatically labels or archives emails from Hatch notification addresses.
+
+  * 
+
+
+**Best Practice:** Prospect researchers should receive all notifications to stay informed about donor activities, while gift officers can filter notifications but still maintain account access for profile lookups during meetings or travel.
+
+* * *
+
+## Email Alert Managment
+
+Unfortunately, there is no ability to manage which emails are sent to you. The only way to stop receiving emails is to be removed as a user on the account.

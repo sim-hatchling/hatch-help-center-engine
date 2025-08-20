@@ -1,0 +1,291 @@
+Title: Adding Hatch to Your Approved Email Senders
+ID: 11759414
+State: published
+Collection: Common Challenges
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/11759414-adding-hatch-to-your-approved-email-senders
+Created: 1752267481
+Updated: 1752267591
+
+ _Customer feedback: "I received the exports in my spam email" and "my security will not let me continue to the website"_
+
+* * *
+
+## Quick Fix for Missing Exports
+
+**Most common issue:** Export emails go to spam or get blocked by corporate security.
+
+**Immediate Solution:**
+
+  1. **Check your spam/junk folder** for emails from `exports@hatch.ai`
+
+  2. **Add Hatch to your approved senders** (instructions below)
+
+  3. **Contact your IT department** if emails are still blocked
+
+
+
+
+**This resolves 90% of export delivery issues within minutes.**
+
+**What to Expect:**
+
+  * **Small exports (under 1,000 contacts):** 5-10 minutes
+
+  * **Large exports (1,000-10,000 contacts):** 15-30 minutes
+
+  * **Very large exports (10,000+ contacts):** 30-60 minutes
+
+
+
+
+⚠️ **If you don't receive your export within 30 minutes, check spam then contact support.**
+
+* * *
+
+## Understanding Email Delivery and Security Issues
+
+## Adding Hatch to Approved Senders
+
+**Gmail Users:**
+
+  1. **Find the Hatch email** in spam/junk
+
+  2. **Click "Not spam"** button
+
+  3. **Mark as important** (star icon)
+
+  4. **Add contact:** Click on `exports@hatch.ai` → "Add to contacts"
+
+
+
+
+**Outlook Users:**
+
+  1. **Right-click on Hatch email** in junk folder
+
+  2. **Select "Mark as Not Junk"**
+
+  3. **Go to Settings** → "Block or Allow"
+
+  4. **Add sender:** Enter `exports@hatch.ai` and `*.hatch.ai`
+
+  5. **Save settings**
+
+
+
+
+**Enterprise Email Systems:** Provide this information to your IT department:
+
+  * **Domains to whitelist:** `exports@hatch.ai`, `support@hatch.ai`, `*.hatch.ai`
+
+  * **Business justification:** "Nonprofit prospect research platform for donor database management - SOC 2 certified, GDPR compliant"
+
+
+
+
+## Corporate Security Blocks
+
+**"My security will not let me continue to the website"**
+
+**What's happening:** Corporate firewalls often block new domains by default.
+
+**Immediate workarounds:**
+
+  1. **Use the backup download link** provided in export emails
+
+  2. **Download file first, then open** (don't open directly from browser)
+
+  3. **Try from personal device/network** as temporary solution
+
+  4. **Request IT whitelist** for `*.hatch.ai` domains
+
+
+
+
+* * *
+
+## Common Problems and Solutions
+
+## Problem: Export Emails Going to Spam
+
+**Solutions:**
+
+  1. **Check spam/junk folders** thoroughly
+
+  2. **Add`exports@hatch.ai` to contacts** preemptively
+
+  3. **Create email filter/rule** specifically for `@hatch.ai` emails
+
+  4. **Add entire domain** (`*.hatch.ai`) not just specific addresses
+
+
+
+
+## Problem: Corporate IT Blocking Access
+
+**Information for Your IT Department:**
+
+  * **Company:** Hatch (Giving Intelligence Platform)
+
+  * **Business purpose:** Nonprofit donor prospect research and database enrichment
+
+  * **Security:** SOC 2 Type II certified, enterprise-grade encryption
+
+  * **Compliance:** GDPR compliant, nonprofit-focused data privacy standards
+
+  * **Technical:** Standard HTTPS (443), no special firewall rules needed
+
+
+
+
+## Problem: "Clicked Other Option to Save Link and It Didn't Work"
+
+**Alternative approaches:**
+
+  1. **Right-click link → "Save target as"** (downloads file directly)
+
+  2. **Copy link address → paste in new tab** (bypasses some restrictions)
+
+  3. **Use different browser** (Chrome tends to work best)
+
+  4. **Disable browser extensions temporarily** (ad blockers can interfere)
+
+
+
+
+## Problem: Export Emails Still Missing After 30+ Minutes
+
+**Check these locations:**
+
+  1. **IT quarantine systems** (ask IT to check)
+
+  2. **Email address accuracy** in your Hatch account settings
+
+  3. **Corporate email delays** (some systems have 15-30 minute delays)
+
+  4. **Alternative email address** for exports (temporary solution)
+
+
+
+
+* * *
+
+## File Handling and Alternative Access Methods
+
+## Working with Downloaded Files
+
+**Best practices:**
+
+  1. **Save to local computer first** (don't open directly from email)
+
+  2. **Scan with antivirus** if required by your organization
+
+  3. **Open in Excel or Google Sheets** for best viewing
+
+  4. **Keep export emails** for re-downloading if needed (links active for 30 days)
+
+
+
+
+## Backup Download Options
+
+**When direct links are blocked:**
+
+  1. **Use the secondary download link** in export emails
+
+  2. **Copy link and paste in new browser tab** (bypasses some blocks)
+
+  3. **Download on mobile device** using cellular data
+
+  4. **Use personal email address** for exports (temporary solution)
+
+
+
+
+## VPN and Network Workarounds
+
+**Corporate VPN issues:**
+
+  * **Disconnect VPN temporarily** while downloading (if permitted)
+
+  * **Try different VPN servers** if your organization allows switching
+
+  * **Use guest network** at your office if available
+
+
+
+
+**Important:** Always follow your organization's IT policies.
+
+**Common Format Notes:**
+
+  * **Multiple emails in one cell:** Normal - primary email used for enrichment, additional emails separated by commas
+
+  * **Phone numbers formatted as text:** Preserves formatting and prevents Excel from removing leading zeros
+
+
+
+
+* * *
+
+## Proactive Setup Best Practices
+
+**Before your first export:**
+
+  * **Add`exports@hatch.ai` to contacts** preemptively
+
+  * **Coordinate with IT during onboarding**
+
+  * **Test with small export first**
+
+  * **Set up alternative email** if corporate restrictions are strict
+
+
+
+
+**For IT Administrators:**
+
+  * **Add`*.hatch.ai` as trusted domain**
+
+  * **Include in firewall exceptions** for file downloads
+
+  * **Add to email security platform** approved senders
+
+  * **Consider user training** on recognizing legitimate Hatch emails
+
+
+
+
+**Conversation starter for IT:**
+
+"We need to whitelist *.hatch.ai for our nonprofit's donor research platform. It's SOC 2 certified and used for prospect database enrichment. Can you add these domains to our approved list?"
+
+* * *
+
+## Getting Help
+
+**For persistent delivery issues:**
+
+  1. **Contact Hatch support** using the blue chat icon
+
+  2. **CC your IT contact** on the conversation
+
+  3. **Include details:** Email provider, error messages, security software
+
+  4. **Request direct IT coordination** \- our team regularly works with corporate IT departments
+
+
+
+
+**Our support team can provide technical specifications and coordinate directly with your IT department for seamless setup.**
+
+## Related Articles
+
+  * **[Understanding Export Processing Times](link)** \- What happens during file generation
+
+  * **[Troubleshooting Login Email Issues](link)** \- Similar email delivery problems
+
+  * **[Adding Team Members and Access](link)** \- Managing organizational accounts
+
+
+

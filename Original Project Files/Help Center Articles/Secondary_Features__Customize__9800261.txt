@@ -1,0 +1,33 @@
+Title: Customize
+ID: 9800261
+State: published
+Collection: Secondary Features
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9800261-customize
+Created: 1724938290
+Updated: 1752515720
+
+# Prospect Research
+
+Public Donations
+
+My Org Donations
+
+Home Value
+
+Total Assets
+
+# Prospect Management
+
+Tags
+
+Status
+
+Gift Capacity Rating
+
+# Marketing
+
+Info Accuracy
+
+Social Influence
+
+Social Platforms

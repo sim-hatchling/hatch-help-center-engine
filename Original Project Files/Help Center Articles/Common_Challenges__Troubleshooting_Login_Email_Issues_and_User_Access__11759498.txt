@@ -1,0 +1,381 @@
+Title: Troubleshooting Login Email Issues and User Access
+ID: 11759498
+State: published
+Collection: Common Challenges
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/11759498-troubleshooting-login-email-issues-and-user-access
+Created: 1752269300
+Updated: 1752269347
+
+_Customer feedback: "My boss wants to log in and he can't get it... I keep on removing his account and trying to add him and it doesn't go"_
+
+* * *
+
+## Quick Fix for Login Email Problems
+
+**Most common issue:** New users not receiving login invitation emails.
+
+**Immediate Solutions:**
+
+  1. **Check spam/junk folders thoroughly** (including quarantine)
+
+  2. **Wait 15-30 minutes** for corporate email delays
+
+  3. **Use temporary shared login** while troubleshooting
+
+  4. **Re-send invitation** from admin panel
+
+
+
+
+**90% of login email issues resolve within the first hour using these steps.**
+
+**What the New User Should Expect:**
+
+  * **Invitation email** from `noreply@hatch.ai` or `invitations@hatch.ai`
+
+  * **"Set up your account" button/link**
+
+  * **Instructions for creating password**
+
+  * **Link expires in 7 days**
+
+
+
+
+⚠️ **Don't remove users for email delivery issues** \- try other solutions first.
+
+* * *
+
+## Understanding User Management and Email Delivery
+
+## Step-by-Step User Addition
+
+**From your admin account:**
+
+  1. **Go to Settings** → "Team" or "Users"
+
+  2. **Click "Add User"** or "Invite Team Member"
+
+  3. **Enter exact email address** (double-check spelling)
+
+  4. **Select appropriate permissions** (Admin, User, Viewer)
+
+  5. **Send invitation** and notify the user to check email
+
+
+
+
+**Important:** Use the person's primary work email address for best delivery.
+
+## Permission Levels Explained
+
+**Admin Access:** Full platform access and settings, can add/remove team members, access to billing and account management, can request Elevated Profiles
+
+**Standard User:** Full prospect research capabilities, can upload and enrich databases, access to all enriched profile data, cannot manage other users
+
+**Viewer Access:** Read-only access to enriched profiles, can search and view existing data, cannot upload new data or request elevations, cannot access admin settings
+
+## Corporate Email Delivery Issues
+
+**Microsoft Exchange/Outlook environments:**
+
+  * External invitations often blocked by default
+
+  * IT must whitelist `*.hatch.ai` domain
+
+  * Safe sender lists need updating
+
+
+
+
+**Google Workspace organizations:**
+
+  * Check admin console for external sharing restrictions
+
+  * May require IT to approve "less secure app" access
+
+  * Domain-wide delegation sometimes needed
+
+
+
+
+**Other enterprise email systems:**
+
+  * Firewall rules may block authentication emails
+
+  * Security policies often restrict external login links
+
+
+
+
+* * *
+
+## Common Problems and Solutions
+
+## Problem: Login Emails Not Arriving
+
+**Systematic troubleshooting:**
+
+  1. **Email delivery check:** Look in primary inbox, spam/junk folder, promotions tab (Gmail)
+
+  2. **Corporate email delays:** Wait 15-30 minutes for security scanning
+
+  3. **Email address verification:** Double-check spelling, confirm address is active
+
+  4. **IT quarantine systems:** Ask IT to check email quarantine/security holds
+
+
+
+
+## Problem: "Could It Be Blocked by Your Email Client?"
+
+**Information to provide your IT team:**
+
+  * **Email domains to whitelist:** `noreply@hatch.ai`, `invitations@hatch.ai`, `support@hatch.ai`, `*.hatch.ai`
+
+  * **Technical specifications:** Authentication emails contain secure login links, links expire after 7 days, HTTPS required, SOC 2 compliant authentication system
+
+
+
+
+## Problem: User Sees Wrong Organization Data
+
+**Account conflict resolution:**
+
+  * User may have multiple Hatch accounts
+
+  * Email address associated with different organization
+
+  * Contact support to merge or reassign accounts
+
+
+
+
+## Problem: Login Links Redirect to Error Pages
+
+**Browser and device solutions:**
+
+  * **Clear browser cache** and cookies
+
+  * **Try incognito/private browsing** mode
+
+  * **Use different browser** (Chrome recommended)
+
+  * **Disable browser extensions** temporarily
+
+  * **Check popup blockers** (may prevent login flow)
+
+
+
+
+* * *
+
+## Alternative Access Methods and Troubleshooting
+
+## Temporary Access Solutions
+
+**When login emails consistently fail:**
+
+  1. **Use existing admin account temporarily**
+
+  2. **Share screen** for training/demonstration purposes
+
+  3. **Export needed data** for user to work with
+
+  4. **Continue troubleshooting** email delivery in parallel
+
+
+
+
+**Security note:** Change shared password after resolving email issues.
+
+## Alternative Email Addresses
+
+**If corporate email is blocked:**
+
+  1. **Try personal Gmail/Yahoo** for initial setup
+
+  2. **Change email** to work address after successful login
+
+  3. **Add both emails** to approved senders during transition
+
+
+
+
+**Process:**
+
+  * Send invitation to personal email
+
+  * Complete account setup
+
+  * Change email address in profile settings
+
+  * Add work email as secondary contact
+
+
+
+
+## Removing and Re-Adding Users
+
+**When to remove/re-add:**
+
+  * Email address changes (if email update isn't working)
+
+  * Persistent authentication errors after 48+ hours
+
+  * User reports seeing wrong organization data
+
+
+
+
+**Proper removal process:**
+
+  1. **Remove user** from team settings
+
+  2. **Wait 15 minutes** for system processing
+
+  3. **Re-add with same or different email**
+
+  4. **Notify user** to check email immediately
+
+  5. **Have user check spam** within first 10 minutes
+
+
+
+
+**Important:** User's data access history is preserved during removal/re-addition.
+
+* * *
+
+## Best Practices and Prevention
+
+## Onboarding New Team Members
+
+**Preparation:**
+
+  1. **Coordinate with IT** before sending invitations
+
+  2. **Confirm email addresses** are active and monitored
+
+  3. **Schedule follow-up** to ensure successful access
+
+  4. **Prepare training materials** for immediate use
+
+
+
+
+**Communication:**
+
+  1. **Send heads-up email** before invitation
+
+  2. **Include spam folder instructions**
+
+  3. **Provide direct contact** for immediate questions
+
+  4. **Follow up within 24 hours**
+
+
+
+
+## Organization-Level Setup
+
+**Preventing access issues:**
+
+  * **Work with IT** to pre-approve Hatch domains
+
+  * **Add to corporate firewall exceptions**
+
+  * **Include in email security platform whitelist**
+
+  * **Test with one user** before rolling out to team
+
+
+
+
+**Changing user permissions:**
+
+  1. **Go to Team settings**
+
+  2. **Find the user** in the list
+
+  3. **Click "Edit" or gear icon**
+
+  4. **Update permission level**
+
+  5. **Save changes** (user gets email notification)
+
+
+
+
+* * *
+
+## Getting Help
+
+## When to Contact Support
+
+**Report as bug when:**
+
+  * Invitations consistently fail after 48+ hours
+
+  * Multiple users having same email delivery issue
+
+  * Login links redirect to error pages
+
+  * Users receive invitation but can't complete setup
+
+
+
+
+**Include this information:**
+
+  * **User's email address** (affected person)
+
+  * **Your admin email** (person sending invitation)
+
+  * **Organization name** in Hatch
+
+  * **Error messages** or screenshots
+
+  * **Browser and device** information
+
+  * **IT involvement** and any restrictions identified
+
+
+
+
+## Immediate Support Access
+
+**Contact support via:**
+
+  * **Blue chat icon** in your Hatch platform
+
+  * **Include affected user** in conversation if possible
+
+  * **CC your IT contact** for enterprise issues
+
+
+
+
+**For persistent login email issues:**
+
+  1. **Contact Hatch support** immediately via blue chat icon
+
+  2. **Include your IT contact** in the conversation
+
+  3. **Request direct IT coordination** \- we regularly work with corporate IT teams
+
+
+
+
+**Enterprise customers can schedule dedicated IT coordination calls for streamlined team setup.**
+
+## Related Articles
+
+  * **[Adding Hatch to Approved Email Senders](link)** \- Email delivery fundamentals
+
+  * **[Working with Corporate IT Security](link)** \- Enterprise setup requirements
+
+  * **[Getting Started Checklist for New Users](link)** \- Post-login setup guide
+
+
+

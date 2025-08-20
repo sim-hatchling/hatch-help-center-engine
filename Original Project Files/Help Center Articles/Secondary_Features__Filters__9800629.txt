@@ -1,0 +1,9 @@
+Title: Filters
+ID: 9800629
+State: published
+Collection: Secondary Features
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9800629-filters
+Created: 1724941781
+Updated: 1752515720
+
+

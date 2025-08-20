@@ -1,0 +1,123 @@
+# Parent-Child Account Management for Partners
+
+This guide covers account management for consultant partnerships using Hatch's parent-child account structure.
+
+## Account Structure Overview
+
+### Parent Account (Consultant/Agency)
+
+- Master account with oversight of all client sub-accounts
+- Can view, search, and manage data across all child accounts
+- Manages credit allocation and user permissions
+- Creates and manages client sub-accounts
+
+### Child Accounts (Nonprofit Clients)
+
+- Individual accounts for each nonprofit client
+- Data isolation - cannot access other child accounts
+- Independent user management (4 seats per child account minimum)
+- Full platform functionality within their account scope
+
+## Creating and Managing Sub-Accounts
+
+### Account Setup
+
+1. Navigate to Organizations page from parent account
+2. Click "Add Sub-account"
+3. Enter client organization details and alias (for identification)
+4. Allocate enrichment credits and QuickSearch quotas
+5. Configure user permissions and upload settings
+6. Send invitation to client organization contact
+
+### Account Identification
+
+- Sub-accounts display with custom aliases in parent account view
+- Blue banner indicates when browsing a child account
+- Account switching uses email indicators (parent vs child account emails)
+
+## Data Management Across Accounts
+
+### Duplicate Donors
+
+- Same person can exist in multiple child accounts
+- Data stored separately per account - no cross-contamination
+- Use User ID for accurate duplicate detection within accounts
+- Parent account search shows results across all child accounts with account identifiers
+
+## Tags and Status Management
+
+### What Works
+
+- Create/edit tags and status from parent account for any donor
+- Parent-created tags/status appear in child accounts automatically
+- Child account filtering by parent-created tags/status works correctly
+- Status filtering from parent account works correctly
+
+### Current Limitations
+
+- Tags created at parent level don't work in parent account filters
+- Workaround: Use child account view for tag filtering or use Status fields for parent-level filtering
+
+### Data Uploads and Enrichment
+
+- Child accounts can upload independently (if enabled)
+- Upload permissions controlled by parent account
+- Enrichment credits shared from parent account allocation
+- Separate donation upload process available
+
+## Best Practices for Partners
+
+### Client Onboarding Strategy
+
+1. Start with 1-3 pilot clients in Month 1
+2. Test workflows and refine processes
+3. Scale to 5+ clients by Month 3
+4. Document successful use cases for new client onboarding
+
+### Account Management
+
+- Use Status fields for parent-level prospect management and filtering
+- Leverage account aliases for clear client identification
+- Monitor credit usage across child accounts
+- Regular check-ins with child account users for support needs
+
+### Data Quality
+
+- Encourage User ID inclusion in uploads for accurate duplicate detection
+- Establish tagging conventions across client accounts
+- Use status fields for high-priority prospects
+- Regular data refresh for key prospects
+
+## Troubleshooting Common Issues
+
+### Payment Processing Delays
+
+- Parent account functionality available during payment processing
+- Limited enrichment quotas until payment confirmation
+- All features accessible except full credit allocation
+
+### User Access Issues
+
+- Use email+alias method for child account access if needed
+- Verify user permissions from parent account settings
+- Check account status and subscription activation
+
+### Filtering and Search
+
+- Use child account view for tag-based filtering
+- Parent account search works across all child accounts
+- Status filtering recommended for parent-level management
+
+## Support and Escalation
+
+### For Technical Issues
+
+- Blue chat icon for platform support
+- Help Center for detailed guides
+- Partner Success Manager for strategic guidance
+
+### For Account Management
+
+- Parent account controls all child account settings
+- Credit reallocation available through account management
+- User permission updates processed immediately

@@ -1,0 +1,82 @@
+Title: How to get better QuickSearch results
+ID: 9689602
+State: published
+Collection: Features In-Depth
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9689602-how-to-get-better-quicksearch-results
+Created: 1722551316
+Updated: 1755207221
+
+# Phone or Email
+
+When you get an exact match with full name and one of these fields, you'll see that profile has a 99% Match Score. That's the case since these identifiers are considering unique when combined with the person's full name.
+
+* * *
+
+# Keywords
+
+Keywords are for narrowing your search without having a clear datapoint like email or phone. Try entering any of the following the person might be associated with:
+
+  * company name
+
+  * skill
+
+  * interest
+
+
+
+
+You'll see the Match Score adjust based on profiles with matching keywords.
+
+* * *
+
+# City & State
+
+You'll notice that entering only city and state affects the score somewhat, however, these datapoints are less strong the email, phone, and address since there can be multiple people living in the same city, state.
+
+* * *
+
+# Middle Name & Birthday
+
+These fields will further help refine the person you are looking for, though affect your Match Score minimally. When you scan with you eyes, however, these datapoint may get you to the person of your interest. Remember, you're the _human in-the-loop_!
+
+* * *
+
+# **Understanding Match Accuracy in QuickSearch**
+
+When you select a profile match in QuickSearch, the system assumes you've chosen the correct person and automatically sets the confidence level to high (green accuracy bars). However, it's important to understand that your selection determines the confidence rating, not the underlying match strength.
+
+**Key Points:**
+
+  * QuickSearch profiles show green accuracy indicators when you select them, regardless of the actual match type
+
+  * The underlying match details—like a match on only name and state—may indicate weaker data connections
+
+  * Always verify that key details (email, LinkedIn URL, location) actually match the person you're researching
+
+  * If you discover inaccurate data after importing, consider requesting an Elevated Profile for verification
+
+
+
+
+Remember: You are the "human-in-the-loop" making the final decision on profile accuracy.
+
+Once you've imported a QuickSearch profile, you cannot refresh or re-enrich it with additional information, except by requesting an Elevated Profile.
+
+## **When QuickSearch Results Are Poor**
+
+If your initial QuickSearch didn't find good matches (perhaps due to name spelling or missing information):
+
+  1. Delete the imported profile from your Hatch account
+
+  2. Perform a new QuickSearch with corrected or additional information
+
+  3. Import the better match
+
+
+
+
+This approach works well because QuickSearch monthly allowances are generous, so using QuickSearch as a testing environment is encouraged.
+
+## For Bulk Upload Profiles
+
+Profiles imported through file uploads require a more complex process to modify since they may include user IDs and donation history. Contact support through in-app chat to discuss the best approach for correcting bulk upload data.

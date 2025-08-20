@@ -1,0 +1,438 @@
+Title: Navigating your Admin panel
+ID: 9927342
+State: published
+Collection: Secondary Features
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9927342-navigating-your-admin-panel
+Created: 1727385676
+Updated: 1754592846
+
+# **Navigating your Admin Panel - Complete Guide**
+
+From your admin portal, you can access all account management features including billing, team settings, integrations, and personal preferences. Access your admin panel by clicking your initials in the top right corner.
+
+## **Billing**
+
+Access comprehensive billing and subscription management tools.
+
+## **View Subscription Details**
+
+Your billing dashboard displays:
+
+  * **Current subscription plan** (Free, Starter, Essential, Standard, etc.)
+
+  * **Monthly cost** and renewal date
+
+  * **Usage quotas** \- Enrichment profiles, QuickSearch imports, Elevated profiles
+
+  * **Payment method** on file
+
+  * **Billing contact information**
+
+
+
+
+## **Accessing Your Receipts**
+
+**To download subscription receipts:**
+
+  1. Click your initials in the top right corner
+
+  2. Select "Billing" from the dropdown
+
+  3. Scroll down to the **"Invoice History"** section
+
+  4. Find your payment in the list (shows date, amount, status, plan type)
+
+  5. Click to download your receipt directly
+
+
+
+
+All past payments appear in your invoice history with "Paid" status indicators. Receipts are available immediately after each successful payment.
+
+**⚠️ Important Note:** If your subscription has expired, you will not be able to access the billing panel to download receipts. In this case, please contact support to request copies of your receipts.
+
+## **Managing Payment Information**
+
+  * **Add payment method** \- Credit card, billing address
+
+  * **Update billing information** \- Name, email, company details
+
+  * **View upcoming charges** and renewal dates
+
+
+
+
+## **Subscription Changes**
+
+  * **Upgrade subscription** \- Move to higher plans instantly
+
+  * **Downgrade requests** \- Contact support to reduce plan level
+
+  * **Cancel subscription** \- Available in billing settings
+
+
+
+
+## **My Profile**
+
+Manage your personal account settings and security.
+
+## **Profile Information**
+
+  * **Profile picture** \- Upload and manage your avatar
+
+  * **Name and email** \- Update display name and contact email
+
+  * **Account preferences** \- Language, notification settings
+
+
+
+
+## **Password & Security**
+
+**Update Password:**
+
+  * Enter current password
+
+  * Set new password
+
+  * Confirm password change
+
+  * Save updates
+
+
+
+
+**Two-Factor Authentication (2FA):**
+
+  * **Activate 2FA** for enhanced security
+
+  * Use Google Authenticator or similar apps
+
+  * Backup codes provided for account recovery
+
+  * **Recommended for all users**
+
+
+
+
+## **Browser Session Management**
+
+Monitor and control active sessions:
+
+  * **View all active sessions** across devices and locations
+
+  * **Session details** \- Device type (Windows, Mac, iOS), browser, IP address, last activity
+
+  * **Log out other sessions** \- Force logout from all other devices
+
+  * **Security monitoring** \- Review suspicious login attempts
+
+
+
+
+Your session list shows:
+
+  * Operating system and browser
+
+  * IP address and approximate location
+
+  * Last activity timestamp
+
+  * "This device" indicator for current session
+
+
+
+
+## **My Organization**
+
+Configure organization-wide settings and team management.
+
+## **Organization Details**
+
+**Basic Information:**
+
+  * **Organization name** \- Display name for your account
+
+  * **EIN (Tax ID)** \- Critical for AI Scoring & Insights
+
+  * **Organization category** \- Nonprofit type classification
+
+  * **Mission statement** \- Critical for AI Scoring & Insights
+
+    * A concise description of your organization including mission, programs, audience served, political orientation (if applicable), size, and geographic scope. Keep the entire text under 1000 characters. The tone should be factual and neutral.
+
+  * **Website and social media** \- Links to your organization's online presence
+
+
+
+
+**Contact Information:**
+
+  * **Primary address** \- Used for distance calculations to prospects
+
+  * **Secondary address** \- Additional location if needed
+
+  * **Phone and contact details**
+
+
+
+
+## **Team Management**
+
+**Add Team Members:**
+
+  * **Invite by email** \- Send invitation to new team members
+
+  * **Set permissions** \- Administrator or Editor
+
+  * **Manage seats** \- Track usage against subscription limits
+
+  * **Monitor pending invitations**
+
+
+
+
+**Permission Levels:**
+
+  * **Admin** \- Full access to all features and settings
+
+  * **Editor** \- Can create, read, and update most information. Cannot:
+
+    * change organization details (name, EIN, mission, etc.)
+
+    * add or remove team members
+
+    * delete prospects or lists
+
+    * access billing information or subscription management
+
+    * subscribe to plans or change subscription levels
+
+
+
+
+**Active Team Members:**
+
+  * View all current team members with roles
+
+  * **Remove team members** when needed
+
+  * **Change permissions** for existing users
+
+  * **Owner designation** \- Account owner has special privileges
+
+
+
+
+## **Organization Settings**
+
+**Donor Level Thresholds:**
+
+  * **Modest Level** \- Default under $5,000 total donations
+
+  * **Mid Level** \- $5,000 to $50,000 range
+
+  * **Major Level** \- $50,000+ donors
+
+  * **Customize thresholds** to match your organization's donor segmentation
+
+
+
+
+**AI Scoring Weights:** Configure how Hatch calculates prospect scores:
+
+  * **Affluence Score Weight** \- Default 20%
+
+  * **Propensity Score Weight** \- Default 20%
+
+  * **Donations Affinity Score Weight** \- Default 20%
+
+  * **Profile Affinity Score Weight** \- Default 20%
+
+  * **RFM Score Weight** \- Default 20%
+
+  * Total must equal 100%
+
+
+
+
+## **Muted Profiles**
+
+  * **View muted profiles** \- Prospects hidden from Live feed
+
+  * **Unmute profiles** \- Restore profiles to active status
+
+  * **Manage noise** \- Keep your prospect pipeline focused
+
+
+
+
+## **Developers**
+
+Access technical integration tools and API management.
+
+## **CRM Integrations**
+
+**Salesforce Integration:**
+
+  * **Connection status** \- Active/inactive indicator
+
+  * **Instance domain** \- Your Salesforce org URL
+
+  * **Consumer key and secret** \- API credentials (secured)
+
+  * **Authorization status** \- Connected/disconnected
+
+  * **Available contact lists** \- Sync prospects between platforms
+
+  * **Sync settings** \- Configure data flow preferences
+
+
+
+
+**Blackbaud RE NXT Integration:**
+
+  * **Connection management** \- Enable/disable integration
+
+  * **Allowed emails** \- Authorized team members for sync
+
+  * **Custom field mapping** \- Connect Hatch data to Blackbaud fields
+
+  * **Constituent lists** \- Available lists from your Blackbaud system
+
+  * **Sync constituents** \- Import/export prospect data
+
+
+
+
+## **API Documentation & Tokens**
+
+**Create API Tokens:**
+
+  * **Generate new tokens** for custom integrations
+
+  * **Set permissions** \- Create, read, update, delete access
+
+  * **Token management** \- View, delete, and regenerate tokens
+
+  * **Usage tracking** \- Monitor API activity and limits
+
+
+
+
+**API Documentation:**
+
+  * **Complete API reference** \- Available at provided documentation URL
+
+  * **Integration examples** \- Code samples and best practices
+
+  * **Rate limits** \- API usage guidelines and restrictions
+
+  * **Authentication** \- Token-based security implementation
+
+
+
+
+**Active Integrations:**
+
+  * **Salesforce token** \- Managed automatically with integration
+
+  * **Custom integrations** \- Your organization's API implementations
+
+  * **Third-party tools** \- Connected services and applications
+
+
+
+
+## **Navigation Tips**
+
+## **Quick Access Methods**
+
+  * **Initials dropdown** \- Fastest way to reach admin functions
+
+  * **Direct URLs** \- Bookmark frequently used admin pages
+
+  * **Keyboard shortcuts** \- Navigate efficiently between sections
+
+
+
+
+## **Mobile Access**
+
+  * **Responsive design** \- Admin panel works on mobile devices
+
+  * **Touch-friendly** \- Optimized for tablets and smartphones
+
+  * **Feature parity** \- Most admin functions available on mobile
+
+
+
+
+## **Account Security Best Practices**
+
+  * **Enable 2FA** on all administrator accounts
+
+  * **Regular password updates** \- Change passwords quarterly
+
+  * **Monitor browser sessions** \- Review and logout unused sessions
+
+  * **Team access review** \- Audit user permissions regularly
+
+  * **API token management** \- Rotate tokens and remove unused integrations
+
+
+
+
+## **Troubleshooting Common Issues**
+
+## **Billing Problems**
+
+  * **Receipts not appearing** \- Check spam folder, contact support if missing
+
+  * **Payment failures** \- Update payment method in billing section
+
+  * **Subscription changes** \- Allow 24 hours for changes to reflect
+
+  * **Expired subscription receipt access** \- Contact support to request receipt copies if you can no longer access the billing panel
+
+
+
+
+## **Team Access Issues**
+
+  * **Invitation emails missing** \- Check spam/junk folders, verify email address
+
+  * **Permission errors** \- Ensure user has appropriate role assignment
+
+  * **Login problems** \- Review browser sessions, reset password if needed
+
+
+
+
+## **Integration Connectivity**
+
+  * **Salesforce sync issues** \- Verify permissions and reauthorize connection
+
+  * **Blackbaud problems** \- Check allowed emails list and field mappings
+
+  * **API errors** \- Validate tokens and check rate limits
+
+
+
+
+## **Support Resources**
+
+  * **Intercom chat** \- Blue button in bottom right for real-time help
+
+  * **Help documentation** \- Comprehensive guides for all features
+
+  * **Video tutorials** \- Step-by-step walkthroughs available
+
+  * **Email support** \- Direct contact for complex issues
+
+
+
+
+Your admin panel is the control center for your entire Hatch experience. Take time to explore each section and customize settings to match your organization's needs.

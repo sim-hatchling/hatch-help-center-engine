@@ -1,0 +1,105 @@
+Title: Exploring OpenGiving
+ID: 9927458
+State: published
+Collection: Quick Start
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9927458-exploring-opengiving
+Created: 1727387912
+Updated: 1752789462
+
+OpenGiving gives you access to comprehensive data on over 1.8 million foundations and nonprofits, making it easy to discover funding opportunities and research potential donors.
+
+## **Getting Started with OpenGiving**
+
+**Access:** OpenGiving is included in every Hatch plan, including the Free plan 
+
+**Data Updates:** Refreshed annually with the latest IRS 990 data 
+
+**Coverage:** ~1.9b organizations with detailed financial and grants information
+
+## **Organization Search**
+
+**Basic Search:**
+
+  * Search by foundation name or EIN number
+
+  * Toggle "Grantmakers only" to focus on funding organizations
+
+
+
+
+**Advanced Filtering Options:**
+
+  * **Organization Category:** Foundation type and focus areas
+
+  * **Location:** Filter by state and city
+
+  * **Grants Information:** Search by grant categories and dollar amounts
+
+  * **Financials:** Filter by operating budget, total revenue, and total assets
+
+  * **Grants Status:** Active vs. inactive grantmaking organizations
+
+
+
+
+**What You'll Find:**
+
+  * Annual budgets, revenues, and assets
+
+  * Contact information and key personnel
+
+  * Historical grants data and recipients
+
+  * Tax filing information by year
+
+  * Foundation focus areas and giving patterns
+
+
+
+
+## **People Search**
+
+**Find Key Foundation Personnel:**
+
+  * Trustees and board members
+
+  * Executive leadership
+
+  * Compensation information
+
+  * Multiple foundation affiliations
+
+
+
+
+**QuickSearch Integration:** Click the lightning bolt (⚡) next to any person's name to instantly create a QuickSearch and view their complete donor profile in Hatch.
+
+## **Foundation Profile Deep Dive**
+
+Each foundation profile includes:
+
+  * **Contact Details:** Address, phone, website
+
+  * **Financial Overview:** Multi-year budget and asset trends
+
+  * **Key Personnel:** Board members with compensation data
+
+  * **Grants History:** Recipients, amounts, and grant descriptions
+
+  * **Tax Filings:** Year-by-year financial data
+
+
+
+
+## **Missing Foundation Data?**
+
+Found a donor profile where a foundation affiliation is missing? Contact our support team with:
+
+  * The Hatch profile link
+
+  * The OpenGiving foundation link
+
+
+
+
+We'll connect the foundation to the donor profile to ensure complete AI Scoring accuracy.

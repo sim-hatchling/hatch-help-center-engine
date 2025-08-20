@@ -1,0 +1,117 @@
+Title: CRM Integrations
+ID: 9689659
+State: published
+Collection: Self Onboarding
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9689659-crm-integrations
+Created: 1722554936
+Updated: 1755026743
+
+# **Blackbaud RE NXT**
+
+💡 Activation can take **less than 5 minutes**. There are 3 simple steps
+
+### Activate
+
+  1. **Install the Hatch app in RE NXT.** Head over to the RE NXT Marketplace and select Manage. Enter the Hatch application id _70d11dc8-41ab-4e14-a217-689c9a0e8b27_ and save.
+
+  2. **Login to RE NXT through your[Hatch developer page](https://dashboard.hatch.ai/organization/api-tokens).**
+
+  3. **Select the list(s) you want to pull over to Hatch.** Check all the boxes you want, and select Save Settings at the bottom. Constituents on the selected lists will sync automatically.
+
+
+
+
+* * *
+
+### Generating Hatch Profiles
+
+There are 3 ways to generate profiles on RE NXT constituents:
+
+  * **Add constituents to RE NXT lists already synced**
+
+  * **Sync other RE NXT lists**
+
+  * **Use the "Sync Constituent" button on an RE NXT record for immediate syncing**
+
+
+
+
+All synced constituent records display AI Scoring & Insights and also have a link directly to their Hatch profile.
+
+* * *
+
+### The "Sync Constituent" Button
+
+On all non-synced RE NXT constituent records, there is a "Sync Constituent to Hatch" button. By pressing this button, the constituent will immediately be sent to Hatch for enrichment. Refresh the RE NXT constituent page once enrichment has complete to see AI Scoring in the Hatch tile on RE NXT.
+
+💡 Hatch will pull over all of the following new details added to any actively synced RE NXT constituents **daily** : deceased flags, phones, emails, and donations. AI Scores & Insights update based on new information.
+
+* * *
+
+### **Troubleshooting RE NXT Issues**
+
+If you encounter communication errors between Blackbaud and Hatch, the Hatch tile on constituent records may display error messages like "There was a communication error between Blackbaud and Hatch: Unexpected response."
+
+**Quick Fix:**
+
+  1. **Disconnect your integration:** Go to your Hatch developer page (<https://dashboard.hatch.ai/organization/api-tokens>) and disconnect the Blackbaud RE NXT integration
+
+  2. **Reconnect the integration:** Follow the original setup steps to reconnect
+
+  3. **Test the connection:** Check a few constituent records to verify the Hatch tile is working properly
+
+
+
+
+**When to try this fix:**
+
+  * Error messages appear in the Hatch tile on constituent records
+
+  * Sync appears to have stopped working
+
+  * Constituent data isn't updating between systems
+
+
+
+
+**When to contact support:**
+
+  * The disconnect/reconnect process doesn't resolve the issue
+
+  * You're unable to access your developer page
+
+  * Error messages persist after reconnection
+
+
+
+
+Most integration communication errors resolve with a simple disconnect and reconnect process.
+
+* * *
+
+### **Identifying Missing Data in Your CRM**
+
+Whether you're using the RE NXT integration or manual exports, you can identify CRM records that are missing phone numbers, emails, or other data points where Hatch has captured this information.
+
+**Step-by-step process:**
+
+  1. **Export your Hatch data:** Navigate to any List in Hatch (this can be a list of all your enriched records). Any user can perform this export - both admins and editors have access.
+
+  2. **Select relevant fields:** When exporting, include the specific fields you want to compare - emails, phone numbers, or other enrichment data.
+
+  3. **Compare with your CRM:** Do a side-by-side comparison using the exported Hatch data against your CRM records using unique identifiers (like user IDs).
+
+
+
+
+**This process works with any CRM system** and helps you systematically identify where Hatch has captured valuable contact information that may be missing from your original CRM.
+
+For custom data analysis needs, contact support through Intercom chat.
+
+* * *
+
+# **Salesforce**
+
+The Salesforce integration is undergoing testing. Expected release date is August 2025.
+
+![](https://downloads.intercomcdn.com/i/o/o3ohuxro/1665631171/7e51d0eeb90167d2efa7b5d35c88/salesforce-tile.png?expires=1755209700&signature=63aff330ba2d5dc2a3d001b0cd08ed65b34aaf78a3394259f84b0be7ee7f6d5e&req=dSYhE899nIBYWPMW1HO4zZU73AXkZzdXfYtzUymPhCgvF4y%2BuO8mZnA6dbul%0AwbDu%0A)

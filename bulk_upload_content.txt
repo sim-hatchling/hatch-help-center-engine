@@ -1,0 +1,34 @@
+# Bulk Upload Best Practices
+
+Strategic guidance for importing donor data: test upload procedures, selection criteria, and batch sizing to maximize enrichment value.
+
+## Start with Test Uploads
+
+Before importing your full database, test with 500-1000 records to:
+
+- Verify column mapping accuracy
+- Review results quality
+- Establish workflow with your team
+- Identify any data formatting issues
+
+## Donor Selection Criteria
+
+When choosing which donors to include in Hatch:
+
+**Recommended criteria:**
+
+- Last gift date within 5-10 years (recency indicates continued engagement)
+- Email engagement (opens, clicks) even if no recent gifts
+- Event attendance (shows ongoing interest despite lack of donations)
+
+**Why these criteria matter:** Donors who haven't given in over 10 years are significantly less likely to respond to solicitation. However, those showing other engagement signals may simply need the right ask at the right time.
+
+## Upload Size Strategy
+
+| Upload Phase | Size | Purpose |
+|-------------|------|----------|
+| Test batch | 5% of quota | Initial validation and testing |
+| Initial working set | 20% of quota | Establish workflow and processes |
+| Full database | Remaining quota | Complete after workflow is established |
+
+**Remember:** Your enrichment limit is lifetime for your contract period, so strategic selection maximizes value.

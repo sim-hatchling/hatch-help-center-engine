@@ -1,0 +1,146 @@
+Title: AI Scoring & Insights
+ID: 11787560
+State: published
+Collection: Features In-Depth
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/11787560-ai-scoring-insights
+Created: 1752698685
+Updated: 1755206605
+
+# The 5 Sub-Scores
+
+All 5 sub-scores are between 0 and 100 and come with an AI Explanation. 
+
+### Affluence Score
+
+  * Factors include: home value, properties owned, stocks, inferred salary, and more
+
+  * 93 and above is a billionaire
+
+
+
+
+🤖 AI Explanations highlight the two most impactful factors of any score.
+
+### Propensity Score
+
+  * Includes both public and my org donations
+
+  * Affected directly by public donation statuses
+
+
+
+
+📰 See [related article](https://intercom.help/hatch-giving-intelligence/en/articles/11788122-public-donations) on public donation statuses
+
+### Donations Affinity Score
+
+  * Represents person's affinity based on historical giving
+
+  * Like Propensity Score, includes both public and my org donations
+
+  * Clicking the **See Why** modal displays recipient organizations sorted by highest impact to the Donations Affinity Score
+
+    * Each recipient organization is scored on a combination of RFM and an AI comparison score between your organization's mission (see [this article](https://intercom.help/hatch-giving-intelligence/en/articles/11787217-account-setup#h_4f93d490d0) for setting your organization mission) and the recipient org's mission
+
+    * AI Insights load on the fly, explaining the comparison between your org and the recipient org
+
+
+
+
+🤖 Outside of AI Explanations, this is the first use of AI in Scoring & Insights
+
+### Profile Affinity Score
+
+  * Represents person's affinity based on all other factors including career, skills, interests, and more
+
+  * Clicking the **See Why** modal displays all facts surfaced about this person
+
+  * Facts are scored based on relevance to your organization's mission
+
+  * Profile Affinity Score is capped at 100 even where summed fact scores exceed 100
+
+
+
+
+💬 To verify the source of a fact, first explore the Hatch profile and then message us to request further investigation
+
+### RFM Score
+
+  * RFM = **R** ecency x **F** requency x **M** onetary
+
+  * Monetary referes to the total amount of historical giving
+
+  * This score is based on historical giving data provided by you
+
+
+
+
+💡 When your org's donation data shows no records for a given year, but public records show donations to an organization with your same EIN, Hatch will use those public donation records in the profile's RFM score calculation
+
+# The Hatch Score: **Practical Scoring Configurations**
+
+Based on your organization's goals, here are proven weight configurations used by successful Hatch customers:
+
+## **Wealth + Philanthropy Focus (50-50 Strategy)**
+
+  * For organizations prioritizing prospects with strong capacity and giving history:
+
+    * Affluence Score: 50%
+
+    * Propensity Score: 50% 
+
+  * Result: Hatch Score highlights prospects with the highest combination of wealth and philanthropic activity. Use the Columns button to display Donations Affinity and Profile Affinity scores, then visually scan for mission alignment without affecting the main sorting.
+
+
+
+
+## **Affinity-Focused Strategy (50-50 Affinity Split)**
+
+  * For organizations wanting to prioritize mission alignment:
+
+    * Donations Affinity Score: 50%
+
+    * Profile Affinity Score: 50%
+
+  * Result: Surfaces prospects most aligned with your mission based on giving history and personal interests. Display Affluence and Propensity columns on All Profiles to evaluate capacity.
+
+
+
+
+## **Balanced Approach (Default)**
+
+  * Equal weighting across all factors:
+
+  * All scores: 20% each
+
+  * Result: Comprehensive scoring that balances all factors equally.
+
+
+
+
+💡Remember: Weight changes update immediately across your entire account when you click Save in My Organization settings. You can experiment with different configurations - there's no permanent commitment to any particular weighting strategy.
+
+# GCR & TAA
+
+### Gift Capacity Rating
+
+### Target Ask Amounts
+
+# Scoring Rerun
+
+### CRM Syncs
+
+### Edited data on profile
+
+### Yellow Spinner
+
+### Elevated Profiles
+
+# All Profiles
+
+  * Hatch Score updates with a single page refresh
+
+  * Hover on any score to see the AI Summary
+
+
+

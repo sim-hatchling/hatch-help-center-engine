@@ -1,0 +1,722 @@
+# Intercom Help Center Debug Export
+**Export Date:** 2025-07-11 14:02:58 UTC
+**Purpose:** Debug article extraction and content export
+
+## DEBUG SUMMARY
+
+- **Total API Calls:** 189
+- **Success Rate:** 25.9%
+- **Average Response Time:** 0.61s
+- **Timeout Setting:** 15s
+
+### Working Endpoints
+- ✅ /articles
+- ✅ /me
+- ✅ /articles?collection_id=10509562
+- ✅ /articles?collection_id=10509553
+- ✅ /articles?collection_id=6739273
+- ✅ /help_center/collections/6739273
+- ✅ /articles?collection_id=10509560
+- ✅ /help_center/collections/10509499
+- ✅ /articles?collection_id=10509593
+- ✅ /help_center/collections
+- ✅ /articles?collection_id=10509559
+- ✅ /help_center/collections/10509560
+- ✅ /help_center/collections/10509601
+- ✅ /help_center/collections/10509600
+- ✅ /articles?published=false
+- ✅ /articles?collection_id=10509499
+- ✅ /articles?state=draft
+- ✅ /articles?collection_id=10509600
+- ✅ /help_center/collections/10509562
+- ✅ /help_center/collections/10509593
+- ✅ /help_center/collections/10509559
+- ✅ /help_center/collections/10509553
+- ✅ /articles?collection_id=10509601
+
+### Failed Endpoints
+- ❌ /help_center/collections/10509593/articles?state=draft
+- ❌ /help_center/articles?collection_id=10509600&state=all
+- ❌ /help_center/collections/6739273/articles
+- ❌ /help_center/collections/10509601/articles?published=false
+- ❌ /help_center/articles?collection_id=10509601
+- ❌ /help_center/articles?collection_id=10509499&state=published
+- ❌ /help_center/collections/10509562/articles?state=draft
+- ❌ /help_center/articles?collection_id=6739273
+- ❌ /help_center/collections/6739273/articles?status=draft
+- ❌ /help_center/collections/10509553/articles?state=draft
+- ❌ /help_center/articles?collection_id=10509562&state=published
+- ❌ /help_center/collections/10509601/articles?status=draft
+- ❌ /help_center/collections/10509600/articles?state=all
+- ❌ /help_center/articles?collection_id=10509559
+- ❌ /help_center/collections/10509553/articles?state=published
+- ❌ /help_center/collections/10509560/articles?state=all
+- ❌ /help_center/articles?collection_id=10509562&state=draft
+- ❌ /help_center/articles?collection_id=10509553
+- ❌ /help_center/collections/10509559/articles?published=true
+- ❌ /help_center/articles?collection_id=10509601&state=all
+- ❌ /help_center/articles?collection_id=6739273&state=draft
+- ❌ /help_center/articles?collection_id=10509560&state=all
+- ❌ /help_center/collections/10509562/articles?state=all
+- ❌ /help_center/articles?state=published
+- ❌ /help_center/collections/10509593/articles?status=draft
+- ❌ /help_center/collections/10509560/articles?state=published
+- ❌ /help_center/collections/10509601/articles?state=all
+- ❌ /help_center/collections/10509499/articles?state=published
+- ❌ /help_center/collections/10509499/articles?published=false
+- ❌ /help_center/articles?collection_id=10509553&state=published
+- ❌ /help_center/collections/10509560/articles?published=false
+- ❌ /help_center/articles?collection_id=10509600&state=draft
+- ❌ /help_center/articles?collection_id=10509600
+- ❌ /help_center/collections/10509562/articles?published=true
+- ❌ /help_center/collections/10509553/articles?state=all
+- ❌ /help_center/collections/10509601/articles?state=published
+- ❌ /help_center/articles?collection_id=6739273&state=published
+- ❌ /help_center/collections/10509553/articles?published=false
+- ❌ /help_center/collections/6739273/articles?published=false
+- ❌ /help_center/collections/10509600/articles?published=true
+- ❌ /help_center/collections/6739273/articles?state=all
+- ❌ /help_center/articles?state=draft
+- ❌ /help_center/articles?collection_id=10509601&state=published
+- ❌ /help_center/collections/10509593/articles?published=true
+- ❌ /help_center/articles?published=false
+- ❌ /help_center/collections/10509499/articles?state=draft
+- ❌ /help_center/articles?collection_id=10509560
+- ❌ /help_center/collections/10509559/articles?state=all
+- ❌ /help_center/collections/10509499/articles?published=true
+- ❌ /help_center/collections/10509601/articles?state=draft
+- ❌ /help_center/collections/10509600/articles?state=published
+- ❌ /help_center/articles?collection_id=10509593&state=all
+- ❌ /help_center/collections/10509553/articles?published=true
+- ❌ /help_center/collections/10509593/articles
+- ❌ /help_center/collections/10509593/articles?state=published
+- ❌ /help_center/collections/6739273/articles?state=published
+- ❌ /help_center/collections/10509553/articles?status=draft
+- ❌ /help_center/articles?collection_id=10509600&state=published
+- ❌ /help_center/articles
+- ❌ /help_center/articles?status=draft
+- ❌ /help_center/articles?collection_id=10509593
+- ❌ /help_center/articles?collection_id=6739273&state=all
+- ❌ /help_center/articles?collection_id=10509562
+- ❌ /help_center/collections/10509560/articles
+- ❌ /help_center/articles?collection_id=10509553&state=draft
+- ❌ /help_center/collections/10509559/articles?status=draft
+- ❌ /help_center/collections/10509562/articles
+- ❌ /help_center/collections/10509593/articles?published=false
+- ❌ /help_center/articles?collection_id=10509553&state=all
+- ❌ /help_center/articles?collection_id=10509560&state=published
+- ❌ /help_center/articles?state=all
+- ❌ /help_center/collections/10509562/articles?published=false
+- ❌ /help_center/articles?collection_id=10509559&state=draft
+- ❌ /help_center/collections/10509593/articles?state=all
+- ❌ /help_center/collections/10509553/articles
+- ❌ /help_center/collections/10509499/articles?status=draft
+- ❌ /help_center/articles?collection_id=10509499
+- ❌ /help_center/collections/10509499/articles
+- ❌ /help_center/articles?collection_id=10509499&state=draft
+- ❌ /help_center/collections/10509600/articles?status=draft
+- ❌ /help_center/collections/10509600/articles
+- ❌ /help_center/collections/10509559/articles?state=published
+- ❌ /help_center/articles?collection_id=10509562&state=all
+- ❌ /help_center/collections/10509600/articles?state=draft
+- ❌ /help_center/collections/10509559/articles
+- ❌ /help_center/collections/10509560/articles?published=true
+- ❌ /help_center/articles?collection_id=10509499&state=all
+- ❌ /help_center/collections/10509600/articles?published=false
+- ❌ /help_center/collections/10509562/articles?status=draft
+- ❌ /help_center/collections/10509559/articles?published=false
+- ❌ /help_center/collections/6739273/articles?published=true
+- ❌ /help_center/articles?collection_id=10509559&state=published
+- ❌ /help_center/collections/10509499/articles?state=all
+- ❌ /help_center/collections/10509601/articles
+- ❌ /help_center/articles?collection_id=10509560&state=draft
+- ❌ /help_center/collections/10509560/articles?status=draft
+- ❌ /help_center/collections/10509560/articles?state=draft
+- ❌ /help_center/collections/10509562/articles?state=published
+- ❌ /help_center/articles?collection_id=10509593&state=published
+- ❌ /help_center/articles?collection_id=10509601&state=draft
+- ❌ /help_center/articles?collection_id=10509593&state=draft
+- ❌ /help_center/articles?collection_id=10509559&state=all
+- ❌ /help_center/collections/10509559/articles?state=draft
+- ❌ /help_center/collections/6739273/articles?state=draft
+- ❌ /help_center/collections/10509601/articles?published=true
+
+---
+
+## COLLECTIONS (9 found)
+
+### Welcome to Hatch
+**ID:** 6739273
+**State:** Unknown
+**Description:** For first-time visitors
+
+### Complete Onboarding
+**ID:** 10509499
+**State:** Unknown
+**Description:** Everything you need to set up your Hatch account
+
+### Setting up your account
+**ID:** 10509553
+**State:** Unknown
+**Description:** None
+
+### Upload your donor data
+**ID:** 10509559
+**State:** Unknown
+**Description:** None
+
+### Quick Start
+**ID:** 10509560
+**State:** Unknown
+**Description:** Upload your data, Sir Hatch birthday letters, & so much more
+
+### Everything Else
+**ID:** 10509562
+**State:** Unknown
+**Description:** None
+
+### Prospect Management
+**ID:** 10509593
+**State:** Unknown
+**Description:** Tracking the who, what, where...
+
+### Data Safety &amp; Security
+**ID:** 10509600
+**State:** Unknown
+**Description:** Everything you need to know in one place
+
+### Donor Discovery
+**ID:** 10509601
+**State:** Unknown
+**Description:** Creating an entirely new donor database with Hatch
+
+## ARTICLES (0 found)
+
+⚠️ **No articles were successfully extracted.**
+
+**Possible causes:**
+- Help center articles are not accessible via API
+- API token lacks help center permissions
+- Articles are in a different endpoint structure
+- Network connectivity issues
+
+## API CALL LOG
+
+✅ GET /me - 0.55s
+
+❌ GET /help_center/articles?state=draft - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=all - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?published=false - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?status=draft - 0.41s
+    Error: 404 Not Found
+
+✅ GET /articles?state=draft - 1.08s
+
+✅ GET /articles?published=false - 1.34s
+
+❌ GET /help_center/articles - 0.43s
+    Error: 404 Not Found
+
+✅ GET /help_center/collections - 0.76s
+
+✅ GET /help_center/collections/6739273 - 0.51s
+
+✅ GET /help_center/collections/10509499 - 0.66s
+
+✅ GET /help_center/collections/10509553 - 0.59s
+
+✅ GET /help_center/collections/10509559 - 0.52s
+
+✅ GET /help_center/collections/10509560 - 0.59s
+
+✅ GET /help_center/collections/10509562 - 0.52s
+
+✅ GET /help_center/collections/10509593 - 0.60s
+
+✅ GET /help_center/collections/10509600 - 0.50s
+
+✅ GET /help_center/collections/10509601 - 0.51s
+
+❌ GET /help_center/collections/6739273/articles - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=6739273 - 0.43s
+    Error: 404 Not Found
+
+✅ GET /articles?collection_id=6739273 - 1.03s
+
+❌ GET /help_center/collections/6739273/articles?state=draft - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/6739273/articles?state=published - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/6739273/articles?state=all - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=6739273&state=draft - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=6739273&state=published - 0.46s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=6739273&state=all - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/6739273/articles?status=draft - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/6739273/articles?published=false - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/6739273/articles?published=true - 0.45s
+    Error: 404 Not Found
+
+✅ GET /help_center/collections/6739273 - 0.52s
+
+❌ GET /help_center/articles - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=draft - 0.46s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=published - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=all - 0.40s
+    Error: 404 Not Found
+
+✅ GET /articles - 1.23s
+
+✅ GET /articles?collection_id=6739273 - 1.32s
+
+❌ GET /help_center/collections/10509499/articles - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509499 - 0.44s
+    Error: 404 Not Found
+
+✅ GET /articles?collection_id=10509499 - 1.38s
+
+❌ GET /help_center/collections/10509499/articles?state=draft - 0.53s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509499/articles?state=published - 0.54s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509499/articles?state=all - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509499&state=draft - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509499&state=published - 0.52s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509499&state=all - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509499/articles?status=draft - 0.46s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509499/articles?published=false - 0.46s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509499/articles?published=true - 0.46s
+    Error: 404 Not Found
+
+✅ GET /help_center/collections/10509499 - 0.60s
+
+❌ GET /help_center/articles - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=draft - 0.46s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=published - 0.50s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=all - 0.42s
+    Error: 404 Not Found
+
+✅ GET /articles - 1.07s
+
+✅ GET /articles?collection_id=10509499 - 1.22s
+
+❌ GET /help_center/collections/10509553/articles - 0.48s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509553 - 0.42s
+    Error: 404 Not Found
+
+✅ GET /articles?collection_id=10509553 - 1.24s
+
+❌ GET /help_center/collections/10509553/articles?state=draft - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509553/articles?state=published - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509553/articles?state=all - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509553&state=draft - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509553&state=published - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509553&state=all - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509553/articles?status=draft - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509553/articles?published=false - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509553/articles?published=true - 0.47s
+    Error: 404 Not Found
+
+✅ GET /help_center/collections/10509553 - 0.53s
+
+❌ GET /help_center/articles - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=draft - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=published - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=all - 0.43s
+    Error: 404 Not Found
+
+✅ GET /articles - 1.08s
+
+✅ GET /articles?collection_id=10509553 - 1.08s
+
+❌ GET /help_center/collections/10509559/articles - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509559 - 0.51s
+    Error: 404 Not Found
+
+✅ GET /articles?collection_id=10509559 - 1.36s
+
+❌ GET /help_center/collections/10509559/articles?state=draft - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509559/articles?state=published - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509559/articles?state=all - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509559&state=draft - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509559&state=published - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509559&state=all - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509559/articles?status=draft - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509559/articles?published=false - 0.41s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509559/articles?published=true - 0.42s
+    Error: 404 Not Found
+
+✅ GET /help_center/collections/10509559 - 0.50s
+
+❌ GET /help_center/articles - 0.46s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=draft - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=published - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=all - 0.48s
+    Error: 404 Not Found
+
+✅ GET /articles - 1.11s
+
+✅ GET /articles?collection_id=10509559 - 1.10s
+
+❌ GET /help_center/collections/10509560/articles - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509560 - 0.47s
+    Error: 404 Not Found
+
+✅ GET /articles?collection_id=10509560 - 1.21s
+
+❌ GET /help_center/collections/10509560/articles?state=draft - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509560/articles?state=published - 0.49s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509560/articles?state=all - 0.48s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509560&state=draft - 0.65s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509560&state=published - 0.48s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509560&state=all - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509560/articles?status=draft - 0.52s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509560/articles?published=false - 0.93s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509560/articles?published=true - 3.56s
+    Error: 404 Not Found
+
+✅ GET /help_center/collections/10509560 - 0.53s
+
+❌ GET /help_center/articles - 0.48s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=draft - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=published - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=all - 0.47s
+    Error: 404 Not Found
+
+✅ GET /articles - 1.20s
+
+✅ GET /articles?collection_id=10509560 - 1.25s
+
+❌ GET /help_center/collections/10509562/articles - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509562 - 0.47s
+    Error: 404 Not Found
+
+✅ GET /articles?collection_id=10509562 - 1.12s
+
+❌ GET /help_center/collections/10509562/articles?state=draft - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509562/articles?state=published - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509562/articles?state=all - 0.48s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509562&state=draft - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509562&state=published - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509562&state=all - 0.49s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509562/articles?status=draft - 0.50s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509562/articles?published=false - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509562/articles?published=true - 0.47s
+    Error: 404 Not Found
+
+✅ GET /help_center/collections/10509562 - 0.68s
+
+❌ GET /help_center/articles - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=draft - 0.60s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=published - 0.51s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=all - 0.50s
+    Error: 404 Not Found
+
+✅ GET /articles - 1.18s
+
+✅ GET /articles?collection_id=10509562 - 2.30s
+
+❌ GET /help_center/collections/10509593/articles - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509593 - 0.44s
+    Error: 404 Not Found
+
+✅ GET /articles?collection_id=10509593 - 1.38s
+
+❌ GET /help_center/collections/10509593/articles?state=draft - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509593/articles?state=published - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509593/articles?state=all - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509593&state=draft - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509593&state=published - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509593&state=all - 0.42s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509593/articles?status=draft - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509593/articles?published=false - 0.48s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509593/articles?published=true - 0.43s
+    Error: 404 Not Found
+
+✅ GET /help_center/collections/10509593 - 0.54s
+
+❌ GET /help_center/articles - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=draft - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=published - 0.46s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=all - 0.44s
+    Error: 404 Not Found
+
+✅ GET /articles - 1.29s
+
+✅ GET /articles?collection_id=10509593 - 1.22s
+
+❌ GET /help_center/collections/10509600/articles - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509600 - 0.49s
+    Error: 404 Not Found
+
+✅ GET /articles?collection_id=10509600 - 1.11s
+
+❌ GET /help_center/collections/10509600/articles?state=draft - 0.49s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509600/articles?state=published - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509600/articles?state=all - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509600&state=draft - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509600&state=published - 0.46s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509600&state=all - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509600/articles?status=draft - 0.48s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509600/articles?published=false - 0.45s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509600/articles?published=true - 0.43s
+    Error: 404 Not Found
+
+✅ GET /help_center/collections/10509600 - 0.63s
+
+❌ GET /help_center/articles - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=draft - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=published - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=all - 0.42s
+    Error: 404 Not Found
+
+✅ GET /articles - 1.04s
+
+✅ GET /articles?collection_id=10509600 - 1.39s
+
+❌ GET /help_center/collections/10509601/articles - 0.49s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509601 - 0.47s
+    Error: 404 Not Found
+
+✅ GET /articles?collection_id=10509601 - 1.20s
+
+❌ GET /help_center/collections/10509601/articles?state=draft - 0.51s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509601/articles?state=published - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509601/articles?state=all - 0.52s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509601&state=draft - 0.43s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509601&state=published - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?collection_id=10509601&state=all - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509601/articles?status=draft - 0.44s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509601/articles?published=false - 0.49s
+    Error: 404 Not Found
+
+❌ GET /help_center/collections/10509601/articles?published=true - 0.45s
+    Error: 404 Not Found
+
+✅ GET /help_center/collections/10509601 - 0.64s
+
+❌ GET /help_center/articles - 0.50s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=draft - 0.47s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=published - 0.46s
+    Error: 404 Not Found
+
+❌ GET /help_center/articles?state=all - 0.50s
+    Error: 404 Not Found
+
+✅ GET /articles - 1.14s
+
+✅ GET /articles?collection_id=10509601 - 1.15s
+

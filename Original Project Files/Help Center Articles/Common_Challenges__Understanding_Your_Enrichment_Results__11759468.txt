@@ -1,0 +1,313 @@
+Title: Understanding Your Enrichment Results
+ID: 11759468
+State: published
+Collection: Common Challenges
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/11759468-understanding-your-enrichment-results
+Created: 1752268872
+Updated: 1752269040
+
+ _Customer feedback: "Enrichment report seems very proud of itself with 1 enrichmente. Who? Can't tell. Don't know."_
+
+* * *
+
+## Quick Fix for Finding Your Enriched Data
+
+**Most common confusion:** "I can see enrichment happened, but I can't find the enriched profiles."
+
+**Where to find your results:**
+
+  1. **Go to your main dashboard** after enrichment completes
+
+  2. **Look for the "Prospects" or "Database" section**
+
+  3. **Enriched profiles appear with green/yellow indicators**
+
+  4. **Click individual profiles** to see the Complete Human Profile data
+
+
+
+
+**Your enriched data doesn't replace your original data - it enhances it with 70+ additional data points.**
+
+**Understanding the "1 Enrichment" Message:**
+
+  * 1 contact received optimal enrichment
+
+  * Other contacts may have partial enrichment
+
+  * Some contacts didn't enrich due to data limitations
+
+  * **This is normal for many uploads**
+
+
+
+
+* * *
+
+## Understanding Match Quality and Enrichment Categories
+
+## The Color-Coded System
+
+**Green bars = Strong match confidence**
+
+  * Matched using email + phone or address
+
+  * Highest data accuracy
+
+  * Most comprehensive enrichment
+
+
+
+
+**Yellow bars = Moderate match confidence**
+
+  * Matched using name + city/state
+
+  * Good data accuracy
+
+  * Some enrichment available
+
+
+
+
+**No bars/Empty = No official match**
+
+  * Only basic data populated
+
+  * Lower confidence in accuracy
+
+  * Limited enrichment data
+
+
+
+
+**This system tells you immediately which profiles have the most reliable data.**
+
+## Enrichment Categories Explained
+
+**Optimal Enrichment ✅**
+
+  * **What it means:** Strong match with multiple identifiers
+
+  * **Data included:** Complete Human Profile with 70+ data points, wealth indicators, social media presence, career history, public giving history
+
+  * **How it happened:** Contact had email + phone + address, or email + full name + location match
+
+
+
+
+**Partial Enrichment ⚠️**
+
+  * **What it means:** Likely match with limited identifiers
+
+  * **Data included:** Basic demographic data, some wealth indicators, limited social presence
+
+  * **How it happened:** Contact had name + location, or email only, or phone only
+
+
+
+
+**No Enrichment ❌**
+
+  * **What it means:** Couldn't confidently match this person
+
+  * **Data included:** Only the original data you provided
+
+  * **Why it happened:** Insufficient identifying information, very common name, or person not in our data sources
+
+
+
+
+**Not Qualified 🚫**
+
+  * **What it means:** Missing required basic information
+
+  * **Issue:** Missing first name, last name, or both
+
+  * **Solution:** Add missing name fields and re-upload
+
+
+
+
+* * *
+
+## Common Problems and Solutions
+
+## Problem: "Can't Tell Who Got Enriched"
+
+**Solution:** Look for the colored bars next to profile names in your dashboard:
+
+  * **Green bars = enriched profiles**
+
+  * **Click individual profiles** to see enrichment data
+
+  * **Use filter options** to view only enriched contacts
+
+
+
+
+## Problem: "Anyone with a Middle Initial Isn't Showing Last Names"
+
+**Known display issue** being addressed by our development team. **Workaround:** Full name data is still captured and searchable, display formatting will be corrected in upcoming update.
+
+## Problem: "Enrichment Seems Incomplete"
+
+**Check the match confidence level:**
+
+  * **Green bars = most complete data available**
+
+  * **Yellow bars = partial data based on available information**
+
+  * **No bars = minimal enrichment possible with provided data** **This reflects data availability, not system errors.**
+
+
+
+
+## Problem: Low Enrichment Rates
+
+**Common reasons for limited results:**
+
+  * **Very common names** without additional identifiers ("John Smith" with only a city)
+
+  * **Outdated contact information** (old emails, changed phone numbers)
+
+  * **Privacy-focused individuals** (limited online presence, minimal public records)
+
+  * **International contacts** outside our data coverage (strongest coverage is US-based)
+
+
+
+
+* * *
+
+## Navigating and Using Your Enriched Profiles
+
+## Complete Human Profile Overview
+
+**When you click on an enriched profile, you'll see:**
+
+**Profile Snapshot:** Photo, age, occupation, alma mater, social and philanthropic inclinations, basic bio and family information
+
+**Wealth Signals:** Real estate holdings and home values, stock holdings and business ownership, inferred salary and wealth indicators
+
+**Giving History:** Foundation grants and nonprofit donations, political contributions, favorite causes and giving patterns, average and largest gift sizes
+
+**Lifestyle & Affinity:** Family members and relationships, skills, interests, and hobbies, languages spoken, education history
+
+**Career Intelligence:** Professional history and current role, industry and company information, business size and funding details
+
+**Social Footprint:** LinkedIn, Twitter, Facebook insights, YouTube videos and content, professional connections, media mentions and news coverage
+
+## Using the Data Effectively
+
+**For prospect research:**
+
+  * Start with wealth signals for capacity assessment
+
+  * Review giving history for affinity matching
+
+  * Check social footprint for engagement opportunities
+
+
+
+
+**For personalized outreach:**
+
+  * Reference shared alma maters or connections
+
+  * Mention relevant interests or causes
+
+  * Use career information for conversation starters
+
+
+
+
+* * *
+
+## Maximizing Your Enrichment Results
+
+## Improve Your Data Before Upload
+
+**Name formatting:**
+
+  * Use full legal names: "Michael" not "Mike"
+
+  * Include middle names or initials when available
+
+  * Avoid titles like "Dr." or "Rev." in name fields
+
+
+
+
+**Contact information:**
+
+  * Use primary personal email addresses
+
+  * Include area codes with phone numbers
+
+  * Provide complete addresses with ZIP+4 when available
+
+
+
+
+**Additional identifiers:**
+
+  * Spouse names help with matching
+
+  * Company names provide additional verification
+
+  * Previous addresses can improve historical matching
+
+
+
+
+## Batch Testing Strategy
+
+**Start small:** Upload 50-100 contacts first to test enrichment rates **Analyze results:** See which types of contacts enrich best **Optimize:** Improve data quality based on initial results **Scale up:** Upload full database with optimized formatting
+
+**Provide as much identifying info as possible:**
+
+  * Full legal names (not nicknames)
+
+  * Current email addresses
+
+  * Current phone numbers
+
+  * Complete home addresses with ZIP codes
+
+
+
+
+* * *
+
+## Getting Help
+
+**If enrichment completed but you can't locate results:**
+
+  1. **Check the main dashboard** for colored indicators
+
+  2. **Use search function** to find specific contacts
+
+  3. **Try filter options** to show only enriched profiles
+
+  4. **Contact support** via blue chat icon with specific contact examples
+
+
+
+
+**Our team can walk you through locating and interpreting your enriched data in real-time.**
+
+## Related Articles
+
+  * **[Fixing Upload Errors and Column Mapping](https://claude.ai/project/link)** \- Ensuring successful data import
+
+  * **[CSV Formatting Best Practices](https://claude.ai/project/link)** \- Preparing data for optimal enrichment
+
+  * **[Using AI Scoring and Insights](https://claude.ai/project/link)** \- Advanced features for enriched profiles
+
+
+
+
+  
+  
+​

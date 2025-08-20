@@ -1,0 +1,31 @@
+Title: QuickSearch
+ID: 9672143
+State: published
+Collection: FAQs by Topic
+URL: https://intercom.help/hatch-giving-intelligence/en/articles/9672143-quicksearch
+Created: 1722291892
+Updated: 1752701648
+
+**What’s QuickSearch?**
+
+QuickSearch is perfect for those times when you need to qualify a potential donor fast. Just enter a name and add some details, such as location or job information. QuickSearch then searches 250 million public profiles to find your perfect match, delivering a complete human profile within seconds. No need to upload your entire database—with QuickSearch, you can perform individual searches and grow your list of targeted prospects effortlessly. It's simple, lightning-fast, and gives you all the info you need at your fingertips. Whether you're looking for social influence, career achievements, wealth signaling, or donation history, QuickSearch delivers it all.
+
+**What kind of data can I access with QuickSearch?**
+
+QuickSearch provides access to a curated selection of over 80 publicly sourced data points to give you a comprehensive view of potential donors. We’re talking social influence, career achievements, contact details, wealth indicators, donation history, hobbies, interests, education background, professional milestones, community involvement, and everything in between!
+
+**Is QuickSearch included in my current Hatch subscription?**
+
+Absolutely! Depending on your subscription level, you get a set number of QuickSearches. As you move up subscription levels, the volume of QuickSearches increases, giving you even more opportunities to find and connect with your perfect donors. Check your current plan details or reach out to our support team to see how many QuickSearches are included in your subscription.
+
+**Can I import QuickSearch data into my existing database?**
+
+Yes, you can! Once you receive your complete donor profile, you can easily import it directly into your Hatch database―keeping all the information you need right at your fingertips. 
+
+**What are the benefits of using QuickSearch?**
+
+Instead of going through the hassle of uploading your entire database, QuickSearch allows you to perform individual searches with just a name and a few key details. This way, you can quickly identify potential donors and intentionally grow a more targeted prospect list.
+
+**How do I use QuickSearch?**
+
+Just enter the name or any relevant details of your potential donor into the search bar. QuickSearch will then search through its extensive database of 250 million public profiles to find matches that fit your criteria. Once you find a promising match, you can view a comprehensive, enriched profile with over 80 data points, ready for import.
